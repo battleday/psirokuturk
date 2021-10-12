@@ -10,119 +10,94 @@ async function initializeExperiment() {
   const N_TRIAL = 4;
 
   // This ensures that images appear exactly when we tell them to.
-  jsPsych.pluginAPI.preloadImages(['static/images/blue.png', 'static/images/orange.png']);
+  jsPsych.pluginAPI.preloadImages(['static/images/A.svg', 'static/images/B.svg',
+    'static/images/C.svg', 'static/images/D.svg']);
 
-  // To avoid repeating ourselves,  we create a variable for a piece
-  // of html that we use multiple times.
-  var anykey = "<div class='lower message'>Press any key to continue.</div>";
+    /* create timeline */
+    var timeline = [];
 
 
   //////////////////
   // Instructions //
   //////////////////
 
-  var welcome_block = {
-    type: "html-keyboard-response",
-    // We use the handy markdown function (defined in utils.js) to format our text.
-    stimulus: markdown(`
-    # My Sweet Experiment
+    var welcome_block = {
+      type: "html-keyboard-response",
+      stimulus: "Welcome to the experiment. Press any key to begin."
+    };
 
-    This is a reworked version of the go/no-go task constructed in a
-    [tutorial](http://docs.jspsych.org/tutorials/rt-task/) 
-    on the jsPsych website. Note that the code here is a little different
-    than the original.
+    /* define instructions trial */
+    var instructions_block = {
+      type: "html-keyboard-response",
+      stimulus: `
+        <p>In this experiment, two stimuli will appear in the center 
+        of the screen. <br>
 
-    Specifically, the code here is better. 😉
+        Press a key from 1 (not similar) to 9 (very similar) to indicate how similar the 
+        stimuli are. <br>
+    
+        Press any key to continue.</p>
+      `,
+      post_trial_gap: 500
+    };
 
-    ${anykey}
-    `)
-    // text: markdown(
-    //   `# Welcome
+    /* test trials */
+    var test_stimuli = [
+      { stimulus: "static/images/A.svg"},
+      { stimulus: "static/images/B.svg"},
+      { stimulus: "static/images/C.svg"},
+      { stimulus: "static/images/D.svg"}
+    ];
 
-    //   This is a reworked version of the go/no-go task constructed in a
-    //   [tutorial](http://docs.jspsych.org/tutorials/rt-task/) 
-    //   on the jsPsych website. Note that the code here is a little different
-    //   than the original.
+    var fixation = {
+      type: 'html-keyboard-response',
+      stimulus: '<div style="font-size:60px;">+</div>',
+      choices: jsPsych.NO_KEYS,
+      trial_duration: function(){
+        return jsPsych.randomization.sampleWithoutReplacement([250, 500, 750, 1000, 1250, 1500, 1750, 2000], 1)[0];
+      },
+      data: {
+        task: 'fixation'
+      }
+    }
 
-    //   Specifically, the code here is better 😉.
 
-    //   ${anykey}
-    // `)
+  /////////////////
+  // Train trials //
+  /////////////////
 
-  };
-
-  var instructions_block = {
-    type: "html-keyboard-response",
-    // Sometimes we do need the additional control of html.
-    // We can mix markdown with html, but you can't use markdown
-    // inside an html element, which is why we use <b>html bold tags</b> 
-    // instead of the prettier **markdown format**.
-    stimulus: markdown(`
-      # Instructions
-
-      In this experiment, a circle will appear in the center 
-      of the screen. If the circle is **blue**, 
-      press the letter F on the keyboard as fast as you can.
-      If the circle is **orange**, do not press 
-      any key.
-      
-      <div class='center'>
-        <div class='left center'>
-          <img src='static/images/blue.png'></img>
-          <p><b>Press the F key</b></p>
-        </div>
-        <div class='right center'>
-          <img src='static/images/orange.png'></img>
-          <p><b>Do not press a key</b></p>
-        </div>
-      </div>
-
-      ${anykey}
-    `),
-    timing_post_trial: 2000
-  };
 
   /////////////////
   // Test trials //
   /////////////////
 
-  var sorting = {
-    type: 'free-sort',
-    stimuli: ["static/images/blue.png", "static/images/orange.png"]
-  }
-
-  var stimuli = [
-    {
-      stimulus: "static/images/blue.png",
-      data: { response: 'go' }
-    },
-    {
-      stimulus: "static/images/orange.png",
-      data: { response: 'no-go' }
+    var test = {
+      type: "html-keyboard-response",
+      stimulus: function(){
+                var html = `
+                <p></p>
+                <div style='float: center;'><img src='static/images/T.svg' width="25%"></img><img src="${jsPsych.timelineVariable('stimulus')}" width="25%"></img></div>
+                <p></p>`;
+                return html;
+            },  
+      prompt: `<p>How similar are these stimuli? <br> Press a key from 1 (not similar) to 9 (very similar) to indicate how similar the 
+        stimuli are. </p>`,
+      choices: ['1', '2', '3', '4', '5', '6', '7', '8', '9'],
+      data: {
+        task: 'response'
+      }
     }
-  ];
 
-  var trials = jsPsych.randomization.repeat(stimuli, Math.floor(N_TRIAL / 2));
-
-  var fixation = {
-    type: 'html-keyboard-response',
-    stimulus: '<div style="margin-top: 90px; font-size:60px;">+</div>',
-    choices: jsPsych.NO_KEYS,
-    trial_duration() {
-      return Math.floor(Math.random() * 1500) + 750
-    },
-  }
-
-  var test_block = {
-    type: "image-keyboard-response",
-    choices: ['F'],
-    trial_duration: 1500,
-    timeline: _.flatten(trials.map(trial => [fixation, trial]))
-  };
+    var test_block = {
+      timeline: [fixation, test],
+      timeline_variables: test_stimuli,
+      repetitions: 1,
+      randomize_order: true
+    }
 
   function getAverageResponseTime() {
 
-    var trials = jsPsych.data.getTrialsOfType('html-keyboard-response');
+    var trials = jsPsych.data.get().filter({task: 'response'});
 
     var sum_rt = 0;
     var valid_trial_count = 0;
@@ -167,7 +142,6 @@ async function initializeExperiment() {
   if (searchParams.get('skip') != null) {
     timeline.splice(0, parseInt(searchParams.get('skip')))
   }
-
 
   return startExperiment({
     timeline,

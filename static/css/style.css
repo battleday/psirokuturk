@@ -160,7 +160,7 @@ ol.insructions > li {
 /* consent.html - the consent form */
 .legal {
   text-align: justify;
-  font-size: 11pt;
+  font-size: 13pt;
   line-height: 1.1em;
 }
 
@@ -207,3 +207,30 @@ span.consent {
     border: 1px solid black;
     margin: 0.625em;
 }
+
+/********************************************************************/
+/* RMB added                                                          */
+/********************************************************************/
+
+.logo {
+  font-family:franklin; 
+  font-size:24px;
+  display: flex;
+  margin-bottom: 24px;
+  justify-content: center;
+}
+
+.logo or {
+  color: #ee7f2d;
+}
+
+.logo-im {
+  width: 50px;
+  margin-right: 10px;
+  margin-top:  0px;
+}
+
+.logo-text {
+  margin-top:  10px;
+}
+

@@ -5,7 +5,21 @@
 <head>
         <meta charset="utf-8" />
 	<title>Debriefing</title>
-	<link rel="stylesheet" href="/static/css/task.css" type="text/css" media="screen" />
+	 <link rel="stylesheet" href="../static/css/bootstrap.min.css" type="text/css" />
+        <style type="text/css">
+        /* these tyles need to be defined locally */
+        body {
+          margin: 20px;
+          background-color: white;
+          color: black;
+          font-weight: 300;
+          font-size: 13pt;
+        }
+
+        h1 {
+          margin: auto;
+        }
+    </style>
 </head>
 <body>
 	<div id="debriefing">
@@ -15,48 +29,25 @@
 		<p>Thank you for your participation in our study!  Your anonymous data makes an
 		important contribution to our understanding of human learning and memory. </p>
 
-		<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-		nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat
-		volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation
-		ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis
-		autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie
-		consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et
-		accumsan et iusto odio dignissim qui blandit praesent luptatum zzril
-		delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum
-		soluta nobis eleifend option congue nihil imperdiet doming id quod mazim
-		placerat facer possim assum. Typi non habent claritatem insitam; est usus
-		legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt
-		lectores legere me lius quod ii legunt saepius. Claritas est etiam
-		processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum
-		est notare quam littera gothica, quam nunc putamus parum claram,
-		anteposuerit litterarum formas humanitatis per seacula quarta decima et
-		quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant
-		sollemnes in futurum.</p>
+		<p>The study you just participated in is part of a series of studies looking at human inference. The goal of this particular study is to see how people use different kinds of information to make similarity judgments. </p>
+
+		<p>In this study, you made similarity judgments between stimuli with different groups of shapes. We are interested in how your answers to questions reveal which kinds of information shape those judgments and change over time.  </p>
 		
-		<p>If you have any questions about this research, you may contact the
-		principal investigator, Principal Investigator.</p>
+		<p>Thank you again for participating in our research! Feel free to contact us for more information about this study, email the Principle Investigator Professor Tom Griffiths at <a href="tomg@princeton.edu"> battleday@princeton.edu </a>, the researcher, at, <a href="battleday@princeton.edu"> battleday@princeton.edu </a>, or the Computational Cognitive Science Lab, at <a href="cocosci-lab@princeton.edu">cocosci-lab@princeton.edu </a>. </p>
 		</div>
 
-			<p class="cool">Do you agree to the following statement?</p>
-			<div id="affirmationbox">
-				<p>I feel that I have been adequately debriefed about the nature
-					of the study.  The investigator has explained the purposes of the
-					research to me, and I feel that any questions I have asked were
-					satisfactorily answered.</p>
-					<table><tr>
-						<td id="affirmative" onClick="javascript:document.forms['accept'].submit()">Yes, I agree.</td>
-						<td id="negative" onClick="javascript:document.forms['decline'].submit()">No, please withhold my data. I will contact the experimenter with questions.</td>
-					</tr></table> 
-					<form id="accept" action="complete" method="post">
-						<input type="hidden" name="uniqueid" value="{{ uniqueId }}" />
-						<input type="hidden" name="agree" value="true" />
-					</form>
-					<form id="decline" action="complete" method="post">
-						<input type="hidden" name="uniqueid" value="{{ uniqueId }}" />
-						<input type="hidden" name="agree" value="false" />
-					</form>
-			</div>
 	</div>
+
+<div id="references">
+<u>Related Publications: </u>
+<ol>
+<li>Krueger, P. M., Lieder, F., & Griffiths, T. L. (2017). Enhancing Metacognitive Reinforcement learning using reward structures and feedback. In Proceedings of the 39th annual conference of the cognitive science society.</li>
+
+<li>Lieder, F., Griffiths, T. L., Huys, Q. J., & Goodman, N. D. (2018). The anchoring bias reflects rational use of cognitive resources. Psychonomic bulletin & review, 25(1), 322-349.</li>
+
+<li>Sanborn, S., Bourgin, D. D., Chang, M., & Griffiths, T. L. (2018). Representational efficiency outweighs action efficiency in human program induction. arXiv preprint arXiv:1807.07134.</li>
+</ol>
+</div>
 </body>
 
 </html>
