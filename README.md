@@ -1,6 +1,6 @@
 # Psirokuturk
 
-A starter pack for running online experiments with Psiturk on Heroku.
+A starter pack for running online experiments with Psiturk on Heroku. Taken and adapted from https://github.com/fredcallaway/psirokuturk.
 
 ## Requirements
 
