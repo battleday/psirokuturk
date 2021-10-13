@@ -105,7 +105,7 @@ async function initializeExperiment() {
 
     var fixation = {
       type: 'html-keyboard-response',
-      stimulus: '<div class="training" style="font-size:100px;">+</div>',
+      stimulus: '<div style="font-size:60px;">+</div>',
       choices: jsPsych.NO_KEYS,
       trial_duration: function(){
         return jsPsych.randomization.sampleWithoutReplacement([250, 500, 750, 1000, 1250, 1500, 1750, 2000], 1)[0];
@@ -123,7 +123,7 @@ async function initializeExperiment() {
       type: "html-keyboard-response",
       stimulus: function(){
                 var html = `
-                <div class="training";'><img src="${jsPsych.timelineVariable('stimulus')}" width="80%"></img></div>
+                <div class="center-image";'><img src="${jsPsych.timelineVariable('stimulus')}" width="50%"></img></div>
                 <p></p>`;
                 return html;
             },
@@ -154,14 +154,15 @@ async function initializeExperiment() {
       type: "html-button-response",
       stimulus: function(){
                 var html = `
-                <div><img src='static/images/T.svg' style="width:50%;padding:10px;"></img><img src="${jsPsych.timelineVariable('stimulus')}" style="width:50%;padding:10px;"></img></div>
-                `
+                <p></p>
+                <div style='float: center;'><img src='static/images/T.svg' width="30%"></img><img src="${jsPsych.timelineVariable('stimulus')}" width="30%"></img></div>
+                <p></p>`;
                 return html;
             },  
       prompt: `<p>How similar are these stimuli? <br> Click a button from 1 (not very similar) to 9 (highly similar). </p>`,
       choices: ['1', '2', '3', '4', '5', '6', '7', '8', '9'],
       data: {
-        task: 'response'
+        task: 'test_response'
       }
     }
 
@@ -177,24 +178,28 @@ async function initializeExperiment() {
   // Debrief functiions //
   /////////////////////////
 
-  // function getAverageResponseTime() {
+  function getAverageResponseTime() {
 
-  //   var trials = jsPsych.data.get().filter({task: 'response'});
+    var trials = jsPsych.data.get().filter({task: 'response'});
 
-  //   var sum_rt = 0;
-  //   for (var i = 0; i < trials.length; i++) {
-  //       sum_rt += trials[i].rt;
-  //     }
-  //   return trials
-  //   // return Math.floor(sum_rt / trials.length);
-  // }
-// <div class="training"> Your average response time was ${getAverageResponseTime()}.<br>
+    var sum_rt = 0;
+    var valid_trial_count = 0;
+    for (var i = 0; i < trials.length; i++) {
+      if (trials[i].response == 'go' && trials[i].rt > -1) {
+        sum_rt += trials[i].rt;
+        valid_trial_count++;
+      }
+    }
+    return Math.floor(sum_rt / valid_trial_count);
+  }
+
   var debrief_block = {
     type: "html-keyboard-response",
+    // We don't want to
     stimulus() {
       return `
-        
-      <div class="training"> Press any key to complete the experiment. Thanks! </div>
+        Your average response time was ${getAverageResponseTime()}.
+        Press any key to complete the experiment. Thanks!
       `
     }
   };
