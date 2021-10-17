@@ -235,6 +235,8 @@ span.consent {
 }
 
 .instructions {
+  width:  80%;
+  margin-top: 20px;
   position: absolute;
     top: 50%;
     left: 50%;
