@@ -231,7 +231,7 @@ for (let i = 0; i < N*2; i++) {
     type: "html-keyboard-response",
     stimulus() {
       return `
-      <div> Thank you for finishing! We have automatically recorded your Participant ID. 
+      <div class="training"> Thank you for finishing! We have automatically recorded your Participant ID. 
       <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
       `
     }
@@ -262,7 +262,7 @@ for (let i = 0; i < N*2; i++) {
       name: 'Math'
     }
   ], 
-    preamble: `<div class="training">This is a short survey to help us design further experiments. 
+    preamble: `<div>This is a short survey to help us design further experiments. 
     We would be most grateful if you could answer to the best of your ability. There is an option 
     to not provide an answer to each question. </div>`,
     };
