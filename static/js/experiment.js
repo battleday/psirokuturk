@@ -29,6 +29,7 @@ async function initializeExperiment() {
       post_trial_gap: 500
     };
 
+    timeline.push(welcome_block)
     /* define instructions trial */
     var instructions_block = {
       type: "html-keyboard-response",
@@ -64,6 +65,7 @@ async function initializeExperiment() {
       `,
       post_trial_gap: 500
     };
+    timeline.push(train_instructions_block)
 
     var test_instructions_block = {
       type: "html-keyboard-response",
@@ -87,7 +89,7 @@ async function initializeExperiment() {
   // Stimuli //
   /////////////////
 
-    var train_stimuli = [
+    var trainStimuli = [
       { stimulus: "static/images/T.svg"},
       { stimulus: "static/images/A.svg"},
       { stimulus: "static/images/B.svg"},
@@ -95,11 +97,11 @@ async function initializeExperiment() {
       { stimulus: "static/images/D.svg"}
     ];
 
-    var test_stimuli = [
-      { stimulus: "static/images/A.svg"},
-      { stimulus: "static/images/B.svg"},
-      { stimulus: "static/images/C.svg"},
-      { stimulus: "static/images/D.svg"}
+    var testStimuli = [
+       "static/images/A.svg",
+       "static/images/B.svg",
+       "static/images/C.svg",
+      "static/images/D.svg"
     ];
 
   /////////////////
@@ -142,62 +144,70 @@ async function initializeExperiment() {
 
     var train_block = {
       timeline: [train],
-      timeline_variables: train_stimuli,
+      timeline_variables: trainStimuli,
       repetitions: 2,
       randomize_order: true
     }
-
+timeline.push(train_block)
   /////////////////
   // Test trials //
   /////////////////
 
-//   TODO: The left/right position of the target and the test picture was randomized,
-// and counterbalanced on a second display to the subject.
+//   The left/right position of the target and the test picture is randomized,
+// and counterbalanced on a second display to the subject. 
 
-    var test = {
-      type: "html-button-response",
-      stimulus: function(){
-                var html = `
-                <div><img src='static/images/T.svg' style="width:50%;padding:10px;"></img><img src="${jsPsych.timelineVariable('stimulus')}" style="width:50%;padding:10px;"></img></div>
-                `
-                return html;
-            },  
-      prompt: `<p>How similar are these stimuli? <br> Click a button from 1 (not very similar) to 9 (highly similar). </p>`,
-      choices: ['1', '2', '3', '4', '5', '6', '7', '8', '9'],
-      data: {
-        task: 'response'
-      }
+timeline.push(test_instructions_block)
+function test_R(stim) {
+  var test = {
+    type: "html-button-response",
+    prompt: `<p>How similar are these stimuli? <br> Click a button from 1 (not very similar) to 9 (highly similar). </p>`,
+    choices: ['1', '2', '3', '4', '5', '6', '7', '8', '9'],
+    data: {
+        task: 'response_R'
+    },
+    stimulus:`
+            <div>
+            <img src='static/images/T.svg' style="width:45%;padding:10px;"></img>
+            <img src="${stim}" style="width:45%;padding:10px;"></img>
+            </div>
+        ` 
     }
+  return test
+}
 
-    var test_backward = {
-      type: "html-button-response",
-      stimulus: function(){
-                var html = `
-                <div><img src="${jsPsych.timelineVariable('stimulus')}" style="width:50%;padding:10px;"></img><img src='static/images/T.svg' style="width:50%;padding:10px;"></img></div>
-                `
-                return html;
-            },  
-      prompt: `<p>How similar are these stimuli? <br> Click a button from 1 (not very similar) to 9 (highly similar). </p>`,
-      choices: ['1', '2', '3', '4', '5', '6', '7', '8', '9'],
-      data: {
-        task: 'response'
-      }
+function test_L(stim) {
+  var test = {
+    type: "html-button-response",
+    prompt: `<p>How similar are these stimuli? <br> Click a button from 1 (not very similar) to 9 (highly similar). </p>`,
+    choices: ['1', '2', '3', '4', '5', '6', '7', '8', '9'],
+    data: {
+        task: 'response_L'
+    },
+    stimulus:`
+            <div>
+            <img src="${stim}" style="width:45%;padding:10px;"></img>
+            <img src='static/images/T.svg' style="width:45%;padding:10px;"></img>
+            </div>
+        ` 
     }
+  return test
+}
 
-    var test_sub_block = {
-      timeline: [test, test_backward],
-      timeline_variables: test_stimuli,
-      repetitions: 1,
-      randomize_order: true
-    }
+var N = testStimuli.length
+var stimDoubled = testStimuli.concat(testStimuli)
 
-    var test_block = {
-      timeline: [test_sub_block, fixation],
-      timeline_variables: test_stimuli,
-      repetitions: 1,
-      randomize_order: false
-    }
+var side = _.shuffle(Array(N/2).fill(0).concat(Array(N/2).fill(1)))
+let secondSide = Array(N).fill(1).map((v, i) => v - side[i])
+var sideDoubled = side.concat(secondSide)
 
+randomIndices = _.shuffle(Array.from({length: N*2}, (x, i) => i))
+
+// stage 2 is to add permutation
+for (let i = 0; i < N*2; i++) {
+  index = randomIndices[i]
+  sideDoubled[index] ? timeline.push(test_L(stimDoubled[index])) : timeline.push(test_R(stimDoubled[index]))
+  timeline.push(fixation)
+}
 
 
   /////////////////////////
@@ -216,17 +226,60 @@ async function initializeExperiment() {
   //   // return Math.floor(sum_rt / trials.length);
   // }
 // <div class="training"> Your average response time was ${getAverageResponseTime()}.<br>
-  var debrief_block = {
+
+  var debrief = {
     type: "html-keyboard-response",
     stimulus() {
       return `
-        
-      <div class="training"> Thank you for finishing! We have automatically recorded your Participant ID. 
-      <br> Press any key to complete the experiment. </div>
+      <div> Thank you for finishing! We have automatically recorded your Participant ID. 
+      <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
       `
     }
   };
 
+  var survey = {
+    type: "survey-multi-select",
+    questions: [
+    {
+      prompt: "What is your age?", 
+      options: ["10-20", "21-30", "31-40", "41-50", "51-60", "60+", "Prefer not to say"], 
+      horizontal: true,
+      required: true,
+      name: 'Age'
+    }, 
+    {
+      prompt: "How would you describe your gender?", 
+      options: ["Woman ", "Man", "Non-binary", "Transgender", "Gender non-comforming", "Prefer not to say"], 
+      horizontal: true,
+      required: true,
+      name: 'Gender'
+    }, 
+    {
+      prompt: "How many years of high school and unviersity math education have you had?", 
+      options: ["0-2", "3-4", "5-6", "7-8", "8-9", "10+", "Prefer not to say"], 
+      horizontal: true,
+      required: true,
+      name: 'Math'
+    }
+  ], 
+    preamble: `<div class="training">This is a short survey to help us design further experiments. 
+    We would be most grateful if you could answer to the best of your ability. There is an option 
+    to not provide an answer to each question. </div>`,
+    };
+
+  var thankyou = {
+    type: "html-keyboard-response",
+    stimulus() {
+      return `
+      <div class="training"> Thank you for finishing! Your answers will help us develop these experiments. 
+      <br> Press any key to finish. </div>
+      `
+    }
+  };
+
+timeline.push(debrief)
+timeline.push(survey)
+timeline.push(thankyou)
 
   /////////////////////////
   // Experiment timeline //
@@ -238,14 +291,14 @@ async function initializeExperiment() {
   // so you don't have to click through them to test
   // the section you're working on.
 
-  var timeline = [welcome_block,
-    instructions_block,
-    train_instructions_block,
-    train_block,
-    test_instructions_block,
-    test_block,
-    debrief_block,
-  ];
+  // var timeline = [welcome_block,
+  //   instructions_block,
+  //   train_instructions_block,
+  //   train_block,
+  //   test_instructions_block,
+  //   test_block,
+  //   debrief_block,
+  // ];
 
   if (searchParams.get('skip') != null) {
     timeline.splice(0, parseInt(searchParams.get('skip')))
