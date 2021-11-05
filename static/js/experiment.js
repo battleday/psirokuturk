@@ -290,13 +290,13 @@ for (let i = 0; i < N*2; i++) {
     }, 
     {
       prompt: "How would you describe your gender?", 
-      options: ["Woman ", "Man", "Non-binary", "Transgender", "Gender non-comforming", "Prefer not to say"], 
+      options: ["Woman ", "Man", "Non-binary", "Transgender", "Gender non-conforming", "Prefer not to say"], 
       horizontal: true,
       required: true,
       name: 'Gender'
     }, 
     {
-      prompt: "How many years of high school and unviersity math education have you had?", 
+      prompt: "How many years of high school and university math education have you had?", 
       options: ["0-2", "3-4", "5-6", "7-8", "8-9", "10+", "Prefer not to say"], 
       horizontal: true,
       required: true,
