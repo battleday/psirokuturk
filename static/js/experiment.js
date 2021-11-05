@@ -2,18 +2,26 @@
 async function initializeExperiment() {
   LOG_DEBUG('initializeExperiment');
 
+function drawProgressBar(msg) {
+    document.querySelector('.jspsych-display-element').insertAdjacentHTML('afterbegin',
+      '<div id="jspsych-progressbar-container">'+
+      '<span>'+
+      msg+ 
+      '</span>'+
+      '<div id="jspsych-progressbar-outer">'+
+        '<div id="jspsych-progressbar-inner"></div>'+
+      '</div></div>');
+  }
   ///////////
   // Setup //
   ///////////
-
-
+ 
   // This ensures that images appear exactly when we tell them to.
   jsPsych.pluginAPI.preloadImages(['static/images/T.svg', 'static/images/A.svg', 'static/images/B.svg',
     'static/images/C.svg', 'static/images/D.svg']);
 
     /* create timeline */
     var timeline = [];
-
 
   //////////////////
   // Instructions //
@@ -26,7 +34,10 @@ async function initializeExperiment() {
         <p class="center">Welcome to the experiment. Press any key to begin.</p>
       </div>
       `,
-      post_trial_gap: 500
+      post_trial_gap: 500,
+      on_start: function(){
+  document.querySelector('#jspsych-progressbar-container').style.display = 'none';
+}
     };
 
     timeline.push(welcome_block)
@@ -35,9 +46,8 @@ async function initializeExperiment() {
       type: "html-keyboard-response",
       stimulus: `
         <div class="instructions">
-          <p>In this experiment, we will ask you to rate the similarity of different visual stimuli. Each stimulus is a collection of 2-5 shapes of different shading, and will look something like this: <br>
-          <img src='static/images/T.svg' style="width:50%;padding:10px;"></img> 
-          <br>
+          <p>In this experiment, we are interested in understanding how people make similarity judgements. We will ask you to rate the similarity of different visual stimuli. Each stimulus is a collection of 2-5 shapes of different shading, and will look something like this: <br>
+          <img src='static/images/T.svg' style="width:30%;padding:10px;"></img> 
           <br>
           In the <em>training</em> phase, we will present the stimuli <b> one at a time </b> so that you can become familiar with them. No response is required, and you will not be tested on them later.<br>
           <br>
@@ -51,11 +61,13 @@ async function initializeExperiment() {
       post_trial_gap: 500
     };
 
+    timeline.push(instructions_block)
+
     var train_instructions_block = {
       type: "html-keyboard-response",
       stimulus: `
         <div class="instructions">
-        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. 
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. There will be five stimuli, repeated twice. 
         <br> 
         <br>
         No response is required, simply observe the stimuli. <br>
@@ -63,7 +75,11 @@ async function initializeExperiment() {
         Press any key to continue.</p>
         </div>
       `,
-      post_trial_gap: 500
+      post_trial_gap: 500,
+      on_finish: function(){
+        drawProgressBar('Training Progress')
+  document.querySelector('#jspsych-progressbar-container').style.display = 'block';
+      }
     };
     timeline.push(train_instructions_block)
 
@@ -81,7 +97,13 @@ async function initializeExperiment() {
         Press any key to continue.</p>
         </div>
       `,
-      post_trial_gap: 500
+      post_trial_gap: 500,
+      on_start: function(){
+  document.querySelector('#jspsych-progressbar-container').style.display = 'none'},
+      on_finish: function(){
+        jsPsych.setProgressBar(0)
+        drawProgressBar('Testing Progress')
+  document.querySelector('#jspsych-progressbar-container').style.display = 'block'}
     };
 
 
@@ -97,13 +119,15 @@ async function initializeExperiment() {
       { stimulus: "static/images/D.svg"}
     ];
 
+    var train_step = 1 / (trainStimuli.length * 2)
+
     var testStimuli = [
        "static/images/A.svg",
        "static/images/B.svg",
        "static/images/C.svg",
       "static/images/D.svg"
     ];
-
+  var test_step = 1 / (testStimuli.length * 2)
   /////////////////
   // Inter-trial //
   /////////////////
@@ -129,7 +153,7 @@ async function initializeExperiment() {
       type: "html-keyboard-response",
       stimulus: function(){
                 var html = `
-                <div class="training";'><img src="${jsPsych.timelineVariable('stimulus')}" width="80%"></img></div>
+                <div class="training";'><img src="${jsPsych.timelineVariable('stimulus')}" width="45%"></img></div>
                 <p></p>`;
                 return html;
             },
@@ -139,6 +163,10 @@ async function initializeExperiment() {
       trial_duration: 4000,
       data: {
         task: 'training'
+      },
+      on_finish: function(){
+        var new_prog = jsPsych.getProgressBarCompleted() + train_step
+        jsPsych.setProgressBar(new_prog); // set progress bar to 85% full.
       }
     }
 
@@ -148,6 +176,7 @@ async function initializeExperiment() {
       repetitions: 2,
       randomize_order: true
     }
+
 timeline.push(train_block)
   /////////////////
   // Test trials //
@@ -165,6 +194,10 @@ function test_R(stim) {
     data: {
         task: 'response_R'
     },
+    on_finish: function(){
+        var new_prog = jsPsych.getProgressBarCompleted() + test_step
+        jsPsych.setProgressBar(new_prog); // set progress bar to 85% full.
+      },
     stimulus:`
             <div>
             <img src='static/images/T.svg' style="width:45%;padding:10px;"></img>
@@ -183,6 +216,10 @@ function test_L(stim) {
     data: {
         task: 'response_L'
     },
+    on_finish: function(){
+        var new_prog = jsPsych.getProgressBarCompleted() + test_step
+        jsPsych.setProgressBar(new_prog); // set progress bar to 85% full.
+      },
     stimulus:`
             <div>
             <img src="${stim}" style="width:45%;padding:10px;"></img>
@@ -206,7 +243,9 @@ randomIndices = _.shuffle(Array.from({length: N*2}, (x, i) => i))
 for (let i = 0; i < N*2; i++) {
   index = randomIndices[i]
   sideDoubled[index] ? timeline.push(test_L(stimDoubled[index])) : timeline.push(test_R(stimDoubled[index]))
+  if (i === (N*2)-1) { break; }
   timeline.push(fixation)
+  
 }
 
 
@@ -229,9 +268,11 @@ for (let i = 0; i < N*2; i++) {
 
   var debrief = {
     type: "html-keyboard-response",
+    on_start: function(){
+  document.querySelector('#jspsych-progressbar-container').style.display = 'none'},
     stimulus() {
       return `
-      <div class="training"> Thank you for finishing! We have automatically recorded your Participant ID. 
+      <div class="training"> You  have finished! Thank you. We have automatically recorded your Participant ID. 
       <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
       `
     }
@@ -271,7 +312,7 @@ for (let i = 0; i < N*2; i++) {
     type: "html-keyboard-response",
     stimulus() {
       return `
-      <div class="training"> Thank you for finishing! Your answers will help us develop these experiments. 
+      <div class="training"> Thank you for finishing the survey! Your answers will help us develop these experiments. 
       <br> Press any key to finish. </div>
       `
     }
