@@ -93,8 +93,10 @@ def reformat_data(version):
     def parse_questiondata():
         qdf = pd.read_csv(data_path + 'questiondata.csv', header=None)
         for uid, df in qdf.groupby(0):
+
             worker_id, assignment_id = uid.split(':')
-            if workerid.startswith('5e14'):
+            print(worker_id)
+            if worker_id.startswith('5e14'):
                 continue  # debugging 
             identifiers['worker_id'].append(worker_id)
             identifiers['assignment_id'].append(assignment_id)
