@@ -127,15 +127,15 @@ function drawProgressBar(msg) {
   // Stimuli //
   /////////////////
 
-    var trainStimuli = formattedStims.concat(formattedTargets).map(
+  var trainStimuli = formattedStims.concat(formattedTargets).map(
       (function (currentElement) {
     return {stimulus: currentElement}}));
 
-    var train_step = 1 / 25 // 25 training images used in original paper by Gentner
+  var train_step = 1 / 25 // 25 training images used in original paper by Gentner
 
-    var testStimuli = balancedTargets.map(function(e, i) {
-    return [e, formattedStims[i]]});
-  var test_step = 1 / (testStimuli.length * 2)
+  var testStimuli = balancedTargets.concat(formattedStims).map(function(e, i) {
+    return [e, formattedStims.concat(balancedTargets)[i]]});
+  var test_step = 1 / (testStimuli.length)
   /////////////////
   // Inter-trial //
   /////////////////
@@ -196,35 +196,16 @@ timeline.push(train_block)
 // and counterbalanced on a second display to the subject. 
 
 timeline.push(test_instructions_block)
-function test_R(stim) {
-  var test = {
-    type: "html-button-response",
-    prompt: `<p>How similar are these stimuli? <br> Click a button from 1 (not very similar) to 9 (highly similar). </p>`,
-    choices: ['1', '2', '3', '4', '5', '6', '7', '8', '9'],
-    data: {
-        task: 'response_R'
-    },
-    on_finish: function(){
-        var new_prog = jsPsych.getProgressBarCompleted() + test_step
-        jsPsych.setProgressBar(new_prog); // set progress bar to 85% full.
-      },
-    stimulus:`
-            <div>
-            <img src='static/images/T.svg' style="width:45%;padding:10px;"></img>
-            <img src="${stim}" style="width:45%;padding:10px;"></img>
-            </div>
-        ` 
-    }
-  return test
+
 }
 
-function test_L(stim) {
+function test(stim) {
   var test = {
     type: "html-button-response",
     prompt: `<p>How similar are these stimuli? <br> Click a button from 1 (not very similar) to 9 (highly similar). </p>`,
     choices: ['1', '2', '3', '4', '5', '6', '7', '8', '9'],
     data: {
-        task: 'response_L'
+        task: 'response'
     },
     on_finish: function(){
         var new_prog = jsPsych.getProgressBarCompleted() + test_step
@@ -240,19 +221,14 @@ function test_L(stim) {
   return test
 }
 
-var N = testStimuli.length
-var stimDoubled = testStimuli.concat(testStimuli)
-
-var side = _.shuffle(Array(N/2).fill(0).concat(Array(N/2).fill(1)))
-let secondSide = Array(N).fill(1).map((v, i) => v - side[i])
-var sideDoubled = side.concat(secondSide)
+var N = testStimuli.length / 2
 
 randomIndices = _.shuffle(Array.from({length: N*2}, (x, i) => i))
 
 // stage 2 is to add permutation
 for (let i = 0; i < N*2; i++) {
   index = randomIndices[i]
-  sideDoubled[index] ? timeline.push(test_L(stimDoubled[index])) : timeline.push(test_R(stimDoubled[index]))
+  timeline.push(test_L(testStimuli[index]))
   if (i === (N*2)-1) { break; }
   timeline.push(fixation)
   
