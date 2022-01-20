@@ -17,8 +17,24 @@ function drawProgressBar(msg) {
   ///////////
  
   // This ensures that images appear exactly when we tell them to.
-  jsPsych.pluginAPI.preloadImages(['static/images/T.svg', 'static/images/A.svg', 'static/images/B.svg',
-    'static/images/C.svg', 'static/images/D.svg']);
+  img_path = 'stimuli/img'
+  stimNames = ['A', 'B', 'C', 'D'];
+  stimNums = Array.from({length: 6}, (_, i) => i + 1).map(String);
+
+  f = (a, b) => [].concat(...a.map(a => b.map(b => [].concat(a, b))));
+  cartesian = (a, b, ...c) => b ? cartesian(f(a, b), ...c) : a;
+
+  stimIdentifiers =  cartesian(stimNums, stimNames); // so stim and targetd ordered by sets
+  targetIdentifiers = cartesian(stimNums, ['T']); // so stim and targetd ordered by sets
+
+  formattedStims = stimIdentifiers.map(function (currentElement) {
+    return img_path + '/' + currentElement[1] + '_' + currentElement[0] + '.svg'});
+  
+  formattedTargets = targetIdentifiers.map(function (currentElement) {
+    return img_path + '/' + currentElement[1] + '_' + currentElement[0] + '.svg'});
+  balancedTargets = formattedTargets.reduce((m,i) => m.concat([i,i,i,i]), []);
+  
+  jsPsych.pluginAPI.preloadImages(formattedStims.concat(formattedTargets));
 
     /* create timeline */
     var timeline = [];
@@ -111,22 +127,14 @@ function drawProgressBar(msg) {
   // Stimuli //
   /////////////////
 
-    var trainStimuli = [
-      { stimulus: "static/images/T.svg"},
-      { stimulus: "static/images/A.svg"},
-      { stimulus: "static/images/B.svg"},
-      { stimulus: "static/images/C.svg"},
-      { stimulus: "static/images/D.svg"}
-    ];
+    var trainStimuli = formattedStims.concat(formattedTargets).map(
+      (function (currentElement) {
+    return {stimulus: currentElement}}));
 
-    var train_step = 1 / (trainStimuli.length * 2)
+    var train_step = 1 / 25 // 25 training images used in original paper by Gentner
 
-    var testStimuli = [
-       "static/images/A.svg",
-       "static/images/B.svg",
-       "static/images/C.svg",
-      "static/images/D.svg"
-    ];
+    var testStimuli = balancedTargets.map(function(e, i) {
+    return [e, formattedStims[i]]});
   var test_step = 1 / (testStimuli.length * 2)
   /////////////////
   // Inter-trial //
@@ -173,7 +181,9 @@ function drawProgressBar(msg) {
     var train_block = {
       timeline: [train],
       timeline_variables: trainStimuli,
-      repetitions: 2,
+      sample: {
+        type: 'without-replacement',
+        size: 25}
       randomize_order: true
     }
 

@@ -1,0 +1,2927 @@
+rt,stimulus,response,trial_type,time_elapsed,task,question_order,wid
+1577.199999988079,Welcome to the experiment. Press any key to begin.,enter,html-keyboard-response,1579,,,wa0df983
+1580.4000000357628,"
+        <p>In this experiment, two stimuli will appear in the center 
+        of the screen. <br>
+
+        Press a key from 1 (not similar) to 9 (very similar) to indicate how similar the 
+        stimuli are. <br>
+    
+        Press any key to continue.</p>
+      ",4,html-keyboard-response,3161,,,wa0df983
+,"<div style=""font-size:60px;"">+</div>",,html-keyboard-response,5419,fixation,,wa0df983
+654.1000000238419,"
+                <p></p>
+                <div style='float: center;'><img src='static/images/T.svg' width=""25%""></img><img src=""static/images/D.svg"" width=""25%""></img></div>
+                <p></p>",3,html-keyboard-response,6074,response,,wa0df983
+,"<div style=""font-size:60px;"">+</div>",,html-keyboard-response,8077,fixation,,wa0df983
+543.0,"
+                <p></p>
+                <div style='float: center;'><img src='static/images/T.svg' width=""25%""></img><img src=""static/images/A.svg"" width=""25%""></img></div>
+                <p></p>",6,html-keyboard-response,8621,response,,wa0df983
+,"<div style=""font-size:60px;"">+</div>",,html-keyboard-response,9623,fixation,,wa0df983
+800.3999999761581,"
+                <p></p>
+                <div style='float: center;'><img src='static/images/T.svg' width=""25%""></img><img src=""static/images/C.svg"" width=""25%""></img></div>
+                <p></p>",5,html-keyboard-response,10424,response,,wa0df983
+,"<div style=""font-size:60px;"">+</div>",,html-keyboard-response,12178,fixation,,wa0df983
+1081.199999988079,"
+                <p></p>
+                <div style='float: center;'><img src='static/images/T.svg' width=""25%""></img><img src=""static/images/B.svg"" width=""25%""></img></div>
+                <p></p>",3,html-keyboard-response,13260,response,,wa0df983
+2084.099999964237,"
+        Your average response time was NaN.
+        Press any key to complete the experiment. Thanks!
+      ",enter,html-keyboard-response,15345,,,wa0df983
+6737.299999982119,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ",d,html-keyboard-response,6739,,,w86a7f6a
+9364.800000011921,"
+        <div class=""instructions"">
+          <p>In this experiment, we will ask you to rate the similarity of different visual stimuli. <br>
+          <br>
+          <br>
+          In the <em>training</em> phase, we will present the stimuli one at a time. No response is required.<br>
+          <br>
+          <br>
+          In the <em>testing</em> phase, we will ask you to rate the similarity of two stimuli by clicking a button on the screen. <br>
+          <br>
+          <br>
+          <br>
+          Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,16605,,,w86a7f6a
+5697.0,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment. No response is required. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ",f,html-keyboard-response,22803,,,w86a7f6a
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,27311,training,,w86a7f6a
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,31314,training,,w86a7f6a
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,35320,training,,w86a7f6a
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,39326,training,,w86a7f6a
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,43331,training,,w86a7f6a
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,47337,training,,w86a7f6a
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,51342,training,,w86a7f6a
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,55347,training,,w86a7f6a
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,59351,training,,w86a7f6a
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,63354,training,,w86a7f6a
+19703.59999999404,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen. <br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,83059,,,w86a7f6a
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,84565,fixation,,w86a7f6a
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,93604,fixation,,w86a7f6a
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,98532,fixation,,w86a7f6a
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,101884,fixation,,w86a7f6a
+5656.700000017881,"
+        
+      <div class=""training""> Press any key to complete the experiment. Thanks! </div>
+      ", ,html-keyboard-response,109586,,,w86a7f6a
+1660.300000011921,Welcome to the experiment. Press any key to begin.,enter,html-keyboard-response,1663,,,w1787055
+1485.5,"
+        <p>In this experiment, two stimuli will appear in the center 
+        of the screen. <br>
+
+        Press a key from 1 (not similar) to 9 (very similar) to indicate how similar the 
+        stimuli are. <br>
+    
+        Press any key to continue.</p>
+      ",1,html-keyboard-response,3150,,,w1787055
+,"<div style=""font-size:60px;"">+</div>",,html-keyboard-response,4409,fixation,,w1787055
+683.1000000238419,"
+                <p></p>
+                <div style='float: center;'><img src='static/images/T.svg' width=""25%""></img><img src=""static/images/D.svg"" width=""25%""></img></div>
+                <p></p>",2,html-keyboard-response,5094,response,,w1787055
+,"<div style=""font-size:60px;"">+</div>",,html-keyboard-response,6599,fixation,,w1787055
+516.5,"
+                <p></p>
+                <div style='float: center;'><img src='static/images/T.svg' width=""25%""></img><img src=""static/images/A.svg"" width=""25%""></img></div>
+                <p></p>",3,html-keyboard-response,7116,response,,w1787055
+,"<div style=""font-size:60px;"">+</div>",,html-keyboard-response,9121,fixation,,w1787055
+483.7000000476837,"
+                <p></p>
+                <div style='float: center;'><img src='static/images/T.svg' width=""25%""></img><img src=""static/images/C.svg"" width=""25%""></img></div>
+                <p></p>",2,html-keyboard-response,9605,response,,w1787055
+,"<div style=""font-size:60px;"">+</div>",,html-keyboard-response,11110,fixation,,w1787055
+3662.199999988079,"
+                <p></p>
+                <div style='float: center;'><img src='static/images/T.svg' width=""25%""></img><img src=""static/images/B.svg"" width=""25%""></img></div>
+                <p></p>",4,html-keyboard-response,14773,response,,w1787055
+1452.8999999761581,"
+        Your average response time was NaN.
+        Press any key to complete the experiment. Thanks!
+      ",enter,html-keyboard-response,16227,,,w1787055
+1145.5,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ",enter,html-keyboard-response,1147,,,we8453df
+58343.89999997616,"
+        <div class=""instructions"">
+          <p>In this experiment, we will ask you to rate the similarity of different visual stimuli. <br>
+          <br>
+          <br>
+          In the <em>training</em> phase, we will present the stimuli one at a time. No response is required.<br>
+          <br>
+          <br>
+          In the <em>testing</em> phase, we will ask you to rate the similarity of two stimuli by clicking a button on the screen. <br>
+          <br>
+          <br>
+          <br>
+          Press any key to continue.</p>
+        </div>
+      ",enter,html-keyboard-response,59995,,,we8453df
+7194.700000047684,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment. No response is required. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ",enter,html-keyboard-response,67694,,,we8453df
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,72200,training,,we8453df
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,76206,training,,we8453df
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,80211,training,,we8453df
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,84216,training,,we8453df
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,88221,training,,we8453df
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,92227,training,,we8453df
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,96232,training,,we8453df
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,100238,training,,we8453df
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,104243,training,,we8453df
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,108248,training,,we8453df
+63902.799999952316,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen. <br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ",enter,html-keyboard-response,172152,,,we8453df
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,172906,fixation,,we8453df
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,179874,fixation,,we8453df
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,182316,fixation,,we8453df
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,183250,fixation,,we8453df
+10561.300000011921,"
+        
+      <div class=""training""> Press any key to complete the experiment. Thanks! </div>
+      ",enter,html-keyboard-response,194717,,,we8453df
+947.0,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ",enter,html-keyboard-response,949,,,wb4d0e59
+929.3000000119209,"
+        <div class=""instructions"">
+          <p>In this experiment, we will ask you to rate the similarity of different visual stimuli. <br>
+          <br>
+          <br>
+          In the <em>training</em> phase, we will present the stimuli one at a time. No response is required.<br>
+          <br>
+          <br>
+          In the <em>testing</em> phase, we will ask you to rate the similarity of two stimuli by clicking a button on the screen. <br>
+          <br>
+          <br>
+          <br>
+          Press any key to continue.</p>
+        </div>
+      ",enter,html-keyboard-response,2382,,,wb4d0e59
+744.4000000357628,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment. No response is required. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ",enter,html-keyboard-response,3630,,,wb4d0e59
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,8132,training,,wb4d0e59
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,12135,training,,wb4d0e59
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,16136,training,,wb4d0e59
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,20140,training,,wb4d0e59
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,24141,training,,wb4d0e59
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,28146,training,,wb4d0e59
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,32147,training,,wb4d0e59
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,36152,training,,wb4d0e59
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,40158,training,,wb4d0e59
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,44163,training,,wb4d0e59
+1470.800000011921,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen. <br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ",enter,html-keyboard-response,45634,,,wb4d0e59
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,46387,fixation,,wb4d0e59
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,48636,fixation,,wb4d0e59
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,49475,fixation,,wb4d0e59
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,51274,fixation,,wb4d0e59
+1228.5,"
+        
+      <div class=""training""> Press any key to complete the experiment. Thanks! </div>
+      ",enter,html-keyboard-response,52925,,,wb4d0e59
+141138.5,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ", ,html-keyboard-response,141087,,,w8fe1e0c
+93295.39999997616,"
+        <div class=""instructions"">
+          <p>In this experiment, we will ask you to rate the similarity of different visual stimuli. <br>
+          <br>
+          <br>
+          In the <em>training</em> phase, we will present the stimuli one at a time. No response is required.<br>
+          <br>
+          <br>
+          In the <em>testing</em> phase, we will ask you to rate the similarity of two stimuli by clicking a button on the screen. <br>
+          <br>
+          <br>
+          <br>
+          Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,234849,,,w8fe1e0c
+3157.199999988079,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment. No response is required. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,238508,,,w8fe1e0c
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,243013,training,,w8fe1e0c
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,247017,training,,w8fe1e0c
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,251021,training,,w8fe1e0c
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,255022,training,,w8fe1e0c
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,259026,training,,w8fe1e0c
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,263030,training,,w8fe1e0c
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,267034,training,,w8fe1e0c
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,271038,training,,w8fe1e0c
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,275043,training,,w8fe1e0c
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,279046,training,,w8fe1e0c
+110902.29999995232,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen. <br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,389910,,,w8fe1e0c
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,391165,fixation,,w8fe1e0c
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,416952,fixation,,w8fe1e0c
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,423041,fixation,,w8fe1e0c
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,426458,fixation,,w8fe1e0c
+7752.600000023842,"
+        
+      <div class=""training""> Press any key to complete the experiment. Thanks! </div>
+      ", ,html-keyboard-response,436754,,,w8fe1e0c
+867.2000000029802,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ",enter,html-keyboard-response,869,,,w85a4c6c
+885.5999999940395,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. 
+        <br> 
+        <br>
+        No response is required, simply observe the stimuli. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ",enter,html-keyboard-response,2256,,,w85a4c6c
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,6762,training,,w85a4c6c
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,10766,training,,w85a4c6c
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,14772,training,,w85a4c6c
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,18774,training,,w85a4c6c
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,22779,training,,w85a4c6c
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,26785,training,,w85a4c6c
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,30789,training,,w85a4c6c
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,34794,training,,w85a4c6c
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,38800,training,,w85a4c6c
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,42805,training,,w85a4c6c
+1399.7000000029802,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen at the same time.<br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        A cross will appear in between trials, and will look like this: <br><br><br> <font size=100px>+</font> <br><br><br>
+        Press any key to continue.</p>
+        </div>
+      ",enter,html-keyboard-response,44206,,,w85a4c6c
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,47023,fixation,,w85a4c6c
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,48923,fixation,,w85a4c6c
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,50805,fixation,,w85a4c6c
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,52941,fixation,,w85a4c6c
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,54277,fixation,,w85a4c6c
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,56107,fixation,,w85a4c6c
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,57957,fixation,,w85a4c6c
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,59962,fixation,,w85a4c6c
+3932.9000000059605,"
+      <div class=""training""> Thank you for finishing! We have automatically recorded your Participant ID. 
+      <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
+      ",enter,html-keyboard-response,63896,,,w85a4c6c
+1143.5999999940395,"
+      <div class=""training""> Thank you for finishing! Your answers will help us develop these experiments. 
+      <br> Press any key to finish. </div>
+      ",enter,html-keyboard-response,70628,,,w85a4c6c
+1295.5999999940395,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ",enter,html-keyboard-response,1298,,,w8488b17
+2689.6000000089407,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. 
+        <br> 
+        <br>
+        No response is required, simply observe the stimuli. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ",enter,html-keyboard-response,4490,,,w8488b17
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,8999,training,,w8488b17
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,13004,training,,w8488b17
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,17010,training,,w8488b17
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,21015,training,,w8488b17
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,25021,training,,w8488b17
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,29026,training,,w8488b17
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,33031,training,,w8488b17
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,37037,training,,w8488b17
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,41042,training,,w8488b17
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""80%""></img></div>
+                <p></p>",,html-keyboard-response,45047,training,,w8488b17
+17867.29999999702,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen at the same time.<br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        A cross will appear in between trials, and will look like this: <br><br><br> <font size=100px>+</font> <br><br><br>
+        Press any key to continue.</p>
+        </div>
+      ",enter,html-keyboard-response,62915,,,w8488b17
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,68359,fixation,,w8488b17
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,69888,fixation,,w8488b17
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,72182,fixation,,w8488b17
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,74421,fixation,,w8488b17
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,75586,fixation,,w8488b17
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,78742,fixation,,w8488b17
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,80930,fixation,,w8488b17
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,84123,fixation,,w8488b17
+82525.09999999404,"
+      <div class=""training""> Thank you for finishing! We have automatically recorded your Participant ID. 
+      <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
+      ",enter,html-keyboard-response,166650,,,w8488b17
+79816.60000000894,"
+      <div class=""training""> Thank you for finishing! Your answers will help us develop these experiments. 
+      <br> Press any key to finish. </div>
+      ",enter,html-keyboard-response,261065,,,w8488b17
+12112.199999988079,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ",enter,html-keyboard-response,12115,,,wf0b51ce
+3960.5,"
+        <div class=""instructions"">
+          <p>In this experiment, we are interested in understanding how people make similarity judgements. We will ask you to rate the similarity of different visual stimuli. Each stimulus is a collection of 2-5 shapes of different shading, and will look something like this: <br>
+          <img src='static/images/T.svg' style=""width:30%;padding:10px;""></img> 
+          <br>
+          In the <em>training</em> phase, we will present the stimuli <b> one at a time </b> so that you can become familiar with them. No response is required, and you will not be tested on them later.<br>
+          <br>
+          <br>
+          In the <em>testing</em> phase, we will present the stimuli <b> two at a time</b>, and ask you to rate the similarity of two stimuli by clicking a button on the screen. <br>
+          <br>
+          <br>
+          Press any key to continue.</p>
+        </div>
+      ",control,html-keyboard-response,16587,,,wf0b51ce
+24601.100000023842,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. There will be five stimuli, repeated twice. 
+        <br> 
+        <br>
+        No response is required, simply observe the stimuli. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ",enter,html-keyboard-response,41704,,,wf0b51ce
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,46209,training,,wf0b51ce
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,50212,training,,wf0b51ce
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,54215,training,,wf0b51ce
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,58217,training,,wf0b51ce
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,62220,training,,wf0b51ce
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,66223,training,,wf0b51ce
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,70227,training,,wf0b51ce
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,74230,training,,wf0b51ce
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,78233,training,,wf0b51ce
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,82236,training,,wf0b51ce
+14376.899999976158,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen at the same time.<br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        A cross will appear in between trials, and will look like this: <br><br><br> <font size=100px>+</font> <br><br><br>
+        Press any key to continue.</p>
+        </div>
+      ",enter,html-keyboard-response,96615,,,wf0b51ce
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,117940,fixation,,wf0b51ce
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,121148,fixation,,wf0b51ce
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,125750,fixation,,wf0b51ce
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,129867,fixation,,wf0b51ce
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,134166,fixation,,wf0b51ce
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,137143,fixation,,wf0b51ce
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,139342,fixation,,wf0b51ce
+7468.600000023842,"
+      <div class=""training""> You  have finished! Thank you. We have automatically recorded your Participant ID. 
+      <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
+      ",enter,html-keyboard-response,148570,,,wf0b51ce
+3881.5,"
+      <div class=""training""> Thank you for finishing the survey! Your answers will help us develop these experiments. 
+      <br> Press any key to finish. </div>
+      ",enter,html-keyboard-response,175320,,,wf0b51ce
+9462.5,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ", ,html-keyboard-response,9470,,,w7d05b6c
+32319.5,"
+        <div class=""instructions"">
+          <p>In this experiment, we are interested in understanding how people make similarity judgements. We will ask you to rate the similarity of different visual stimuli. Each stimulus is a collection of 2-5 shapes of different shading, and will look something like this: <br>
+          <img src='static/images/T.svg' style=""width:30%;padding:10px;""></img> 
+          <br>
+          In the <em>training</em> phase, we will present the stimuli <b> one at a time </b> so that you can become familiar with them. No response is required, and you will not be tested on them later.<br>
+          <br>
+          <br>
+          In the <em>testing</em> phase, we will present the stimuli <b> two at a time</b>, and ask you to rate the similarity of two stimuli by clicking a button on the screen. <br>
+          <br>
+          <br>
+          Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,42296,,,w7d05b6c
+6854.0,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. There will be five stimuli, repeated twice. 
+        <br> 
+        <br>
+        No response is required, simply observe the stimuli. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,49652,,,w7d05b6c
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,54159,training,,w7d05b6c
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,58164,training,,w7d05b6c
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,62170,training,,w7d05b6c
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,66183,training,,w7d05b6c
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,70189,training,,w7d05b6c
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,74202,training,,w7d05b6c
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,78409,training,,w7d05b6c
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,82670,training,,w7d05b6c
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,86878,training,,w7d05b6c
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,90883,training,,w7d05b6c
+22638.5,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen at the same time.<br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        A cross will appear in between trials, and will look like this: <br><br><br> <font size=100px>+</font> <br><br><br>
+        Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,113525,,,w7d05b6c
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,129981,fixation,,w7d05b6c
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,152469,fixation,,w7d05b6c
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,157856,fixation,,w7d05b6c
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,163603,fixation,,w7d05b6c
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,170170,fixation,,w7d05b6c
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,179413,fixation,,w7d05b6c
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,183846,fixation,,w7d05b6c
+8503.39999999851,"
+      <div class=""training""> You  have finished! Thank you. We have automatically recorded your Participant ID. 
+      <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
+      ", ,html-keyboard-response,195335,,,w7d05b6c
+7096.69999999553,"
+      <div class=""training""> Thank you for finishing the survey! Your answers will help us develop these experiments. 
+      <br> Press any key to finish. </div>
+      ", ,html-keyboard-response,238610,,,w7d05b6c
+2958.5,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ", ,html-keyboard-response,2983,,,w6b5d6af
+22813.19999998808,"
+        <div class=""instructions"">
+          <p>In this experiment, we are interested in understanding how people make similarity judgements. We will ask you to rate the similarity of different visual stimuli. Each stimulus is a collection of 2-5 shapes of different shading, and will look something like this: <br>
+          <img src='static/images/T.svg' style=""width:30%;padding:10px;""></img> 
+          <br>
+          In the <em>training</em> phase, we will present the stimuli <b> one at a time </b> so that you can become familiar with them. No response is required, and you will not be tested on them later.<br>
+          <br>
+          <br>
+          In the <em>testing</em> phase, we will present the stimuli <b> two at a time</b>, and ask you to rate the similarity of two stimuli by clicking a button on the screen. <br>
+          <br>
+          <br>
+          Press any key to continue.</p>
+        </div>
+      ",arrowdown,html-keyboard-response,26404,,,w6b5d6af
+6105.299999952316,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. There will be five stimuli, repeated twice. 
+        <br> 
+        <br>
+        No response is required, simply observe the stimuli. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ",arrowdown,html-keyboard-response,33018,,,w6b5d6af
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,37564,training,,w6b5d6af
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,41578,training,,w6b5d6af
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,45587,training,,w6b5d6af
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,49596,training,,w6b5d6af
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,53606,training,,w6b5d6af
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,57617,training,,w6b5d6af
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,61629,training,,w6b5d6af
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,65638,training,,w6b5d6af
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,69644,training,,w6b5d6af
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,73650,training,,w6b5d6af
+14408.300000011921,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen at the same time.<br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        A cross will appear in between trials, and will look like this: <br><br><br> <font size=100px>+</font> <br><br><br>
+        Press any key to continue.</p>
+        </div>
+      ",0,html-keyboard-response,88175,,,w6b5d6af
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,98740,fixation,,w6b5d6af
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,103669,fixation,,w6b5d6af
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,109154,fixation,,w6b5d6af
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,113203,fixation,,w6b5d6af
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,115627,fixation,,w6b5d6af
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,122218,fixation,,w6b5d6af
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,125851,fixation,,w6b5d6af
+3921.400000035763,"
+      <div class=""training""> You  have finished! Thank you. We have automatically recorded your Participant ID. 
+      <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
+      ", ,html-keyboard-response,132179,,,w6b5d6af
+3213.199999988079,"
+      <div class=""training""> Thank you for finishing the survey! Your answers will help us develop these experiments. 
+      <br> Press any key to finish. </div>
+      ", ,html-keyboard-response,153918,,,w6b5d6af
+3318.199999809265,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ",enter,html-keyboard-response,3324,,,w397f51b
+24681.89999985695,"
+        <div class=""instructions"">
+          <p>In this experiment, we are interested in understanding how people make similarity judgements. We will ask you to rate the similarity of different visual stimuli. Each stimulus is a collection of 2-5 shapes of different shading, and will look something like this: <br>
+          <img src='static/images/T.svg' style=""width:30%;padding:10px;""></img> 
+          <br>
+          In the <em>training</em> phase, we will present the stimuli <b> one at a time </b> so that you can become familiar with them. No response is required, and you will not be tested on them later.<br>
+          <br>
+          <br>
+          In the <em>testing</em> phase, we will present the stimuli <b> two at a time</b>, and ask you to rate the similarity of two stimuli by clicking a button on the screen. <br>
+          <br>
+          <br>
+          Press any key to continue.</p>
+        </div>
+      ",enter,html-keyboard-response,28519,,,w397f51b
+10769.5,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. There will be five stimuli, repeated twice. 
+        <br> 
+        <br>
+        No response is required, simply observe the stimuli. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ",enter,html-keyboard-response,39805,,,w397f51b
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,44319,training,,w397f51b
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,48323,training,,w397f51b
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,52335,training,,w397f51b
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,56347,training,,w397f51b
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,60360,training,,w397f51b
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,64369,training,,w397f51b
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,68373,training,,w397f51b
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,72391,training,,w397f51b
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,76407,training,,w397f51b
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,80411,training,,w397f51b
+25079.300000190735,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen at the same time.<br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        A cross will appear in between trials, and will look like this: <br><br><br> <font size=100px>+</font> <br><br><br>
+        Press any key to continue.</p>
+        </div>
+      ",enter,html-keyboard-response,105495,,,w397f51b
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,124787,fixation,,w397f51b
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,140662,fixation,,w397f51b
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,151834,fixation,,w397f51b
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,162030,fixation,,w397f51b
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,174464,fixation,,w397f51b
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,178827,fixation,,w397f51b
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,193554,fixation,,w397f51b
+8966.299999952316,"
+      <div class=""training""> You  have finished! Thank you. We have automatically recorded your Participant ID. 
+      <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
+      ",enter,html-keyboard-response,206830,,,w397f51b
+5117.200000047684,"
+      <div class=""training""> Thank you for finishing the survey! Your answers will help us develop these experiments. 
+      <br> Press any key to finish. </div>
+      ",enter,html-keyboard-response,225830,,,w397f51b
+1336.3999999761581,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ",h,html-keyboard-response,1338,,,w2094a7b
+1525.5,"
+        <div class=""instructions"">
+          <p>In this experiment, we are interested in understanding how people make similarity judgements. We will ask you to rate the similarity of different visual stimuli. Each stimulus is a collection of 2-5 shapes of different shading, and will look something like this: <br>
+          <img src='static/images/T.svg' style=""width:30%;padding:10px;""></img> 
+          <br>
+          In the <em>training</em> phase, we will present the stimuli <b> one at a time </b> so that you can become familiar with them. No response is required, and you will not be tested on them later.<br>
+          <br>
+          <br>
+          In the <em>testing</em> phase, we will present the stimuli <b> two at a time</b>, and ask you to rate the similarity of two stimuli by clicking a button on the screen. <br>
+          <br>
+          <br>
+          Press any key to continue.</p>
+        </div>
+      ",h,html-keyboard-response,3370,,,w2094a7b
+630.5,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. There will be five stimuli, repeated twice. 
+        <br> 
+        <br>
+        No response is required, simply observe the stimuli. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ",h,html-keyboard-response,4506,,,w2094a7b
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,9028,training,,w2094a7b
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,13038,training,,w2094a7b
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,17041,training,,w2094a7b
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,21046,training,,w2094a7b
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,25059,training,,w2094a7b
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,29073,training,,w2094a7b
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,33074,training,,w2094a7b
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,37076,training,,w2094a7b
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,41077,training,,w2094a7b
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,45078,training,,w2094a7b
+9363.100000023842,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen at the same time.<br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        A cross will appear in between trials, and will look like this: <br><br><br> <font size=100px>+</font> <br><br><br>
+        Press any key to continue.</p>
+        </div>
+      ",arrowleft,html-keyboard-response,54442,,,w2094a7b
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,59203,fixation,,w2094a7b
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,63169,fixation,,w2094a7b
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,66449,fixation,,w2094a7b
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,68415,fixation,,w2094a7b
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,74379,fixation,,w2094a7b
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,79134,fixation,,w2094a7b
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,82111,fixation,,w2094a7b
+42214.40000009537,"
+      <div class=""training""> You  have finished! Thank you. We have automatically recorded your Participant ID. 
+      <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
+      ",n,html-keyboard-response,126297,,,w2094a7b
+709.3999999761581,"
+      <div class=""training""> Thank you for finishing the survey! Your answers will help us develop these experiments. 
+      <br> Press any key to finish. </div>
+      ", ,html-keyboard-response,132809,,,w2094a7b
+13800.800000011921,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ",a,html-keyboard-response,13803,,,w6a02edb
+18387.40000000596,"
+        <div class=""instructions"">
+          <p>In this experiment, we are interested in understanding how people make similarity judgements. We will ask you to rate the similarity of different visual stimuli. Each stimulus is a collection of 2-5 shapes of different shading, and will look something like this: <br>
+          <img src='static/images/T.svg' style=""width:30%;padding:10px;""></img> 
+          <br>
+          In the <em>training</em> phase, we will present the stimuli <b> one at a time </b> so that you can become familiar with them. No response is required, and you will not be tested on them later.<br>
+          <br>
+          <br>
+          In the <em>testing</em> phase, we will present the stimuli <b> two at a time</b>, and ask you to rate the similarity of two stimuli by clicking a button on the screen. <br>
+          <br>
+          <br>
+          Press any key to continue.</p>
+        </div>
+      ",a,html-keyboard-response,32692,,,w6a02edb
+12234.09999999404,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. There will be five stimuli, repeated twice. 
+        <br> 
+        <br>
+        No response is required, simply observe the stimuli. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ",a,html-keyboard-response,45427,,,w6a02edb
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,49931,training,,w6a02edb
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,53934,training,,w6a02edb
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,57936,training,,w6a02edb
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,61939,training,,w6a02edb
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,65941,training,,w6a02edb
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,69944,training,,w6a02edb
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,73946,training,,w6a02edb
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,77948,training,,w6a02edb
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,81950,training,,w6a02edb
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,85952,training,,w6a02edb
+18110.79999998212,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen at the same time.<br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        A cross will appear in between trials, and will look like this: <br><br><br> <font size=100px>+</font> <br><br><br>
+        Press any key to continue.</p>
+        </div>
+      ",1,html-keyboard-response,104063,,,w6a02edb
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,112171,fixation,,w6a02edb
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,117189,fixation,,w6a02edb
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,120621,fixation,,w6a02edb
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,124161,fixation,,w6a02edb
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,127736,fixation,,w6a02edb
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,130129,fixation,,w6a02edb
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,133904,fixation,,w6a02edb
+3925.899999976158,"
+      <div class=""training""> You  have finished! Thank you. We have automatically recorded your Participant ID. 
+      <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
+      ",a,html-keyboard-response,139274,,,w6a02edb
+4451.5,"
+      <div class=""training""> Thank you for finishing the survey! Your answers will help us develop these experiments. 
+      <br> Press any key to finish. </div>
+      ",a,html-keyboard-response,158549,,,w6a02edb
+5274.29999999702,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ",enter,html-keyboard-response,5275,,,wdff3247
+7758.800000011921,"
+        <div class=""instructions"">
+          <p>In this experiment, we are interested in understanding how people make similarity judgements. We will ask you to rate the similarity of different visual stimuli. Each stimulus is a collection of 2-5 shapes of different shading, and will look something like this: <br>
+          <img src='static/images/T.svg' style=""width:30%;padding:10px;""></img> 
+          <br>
+          In the <em>training</em> phase, we will present the stimuli <b> one at a time </b> so that you can become familiar with them. No response is required, and you will not be tested on them later.<br>
+          <br>
+          <br>
+          In the <em>testing</em> phase, we will present the stimuli <b> two at a time</b>, and ask you to rate the similarity of two stimuli by clicking a button on the screen. <br>
+          <br>
+          <br>
+          Press any key to continue.</p>
+        </div>
+      ",control,html-keyboard-response,13539,,,wdff3247
+71.09999999403954,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. There will be five stimuli, repeated twice. 
+        <br> 
+        <br>
+        No response is required, simply observe the stimuli. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ",c,html-keyboard-response,14111,,,wdff3247
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,18614,training,,wdff3247
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,22616,training,,wdff3247
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,26624,training,,wdff3247
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,30626,training,,wdff3247
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,34627,training,,wdff3247
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,38629,training,,wdff3247
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,42630,training,,wdff3247
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,46631,training,,wdff3247
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,50632,training,,wdff3247
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,54634,training,,wdff3247
+43165.20000000298,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen at the same time.<br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        A cross will appear in between trials, and will look like this: <br><br><br> <font size=100px>+</font> <br><br><br>
+        Press any key to continue.</p>
+        </div>
+      ",enter,html-keyboard-response,97800,,,wdff3247
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,108053,fixation,,wdff3247
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,112492,fixation,,wdff3247
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,117462,fixation,,wdff3247
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,124350,fixation,,wdff3247
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,128958,fixation,,wdff3247
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,167399,fixation,,wdff3247
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,171664,fixation,,wdff3247
+17860.89999999106,"
+      <div class=""training""> You  have finished! Thank you. We have automatically recorded your Participant ID. 
+      <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
+      ",enter,html-keyboard-response,193353,,,wdff3247
+2283.9000000059605,"
+      <div class=""training""> Thank you for finishing the survey! Your answers will help us develop these experiments. 
+      <br> Press any key to finish. </div>
+      ",enter,html-keyboard-response,211260,,,wdff3247
+8135.100000023842,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ", ,html-keyboard-response,8136,,,w4aa5eb8
+9324.40000000596,"
+        <div class=""instructions"">
+          <p>In this experiment, we are interested in understanding how people make similarity judgements. We will ask you to rate the similarity of different visual stimuli. Each stimulus is a collection of 2-5 shapes of different shading, and will look something like this: <br>
+          <img src='static/images/T.svg' style=""width:30%;padding:10px;""></img> 
+          <br>
+          In the <em>training</em> phase, we will present the stimuli <b> one at a time </b> so that you can become familiar with them. No response is required, and you will not be tested on them later.<br>
+          <br>
+          <br>
+          In the <em>testing</em> phase, we will present the stimuli <b> two at a time</b>, and ask you to rate the similarity of two stimuli by clicking a button on the screen. <br>
+          <br>
+          <br>
+          Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,17975,,,w4aa5eb8
+19946.30000001192,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. There will be five stimuli, repeated twice. 
+        <br> 
+        <br>
+        No response is required, simply observe the stimuli. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,38423,,,w4aa5eb8
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,42926,training,,w4aa5eb8
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,46928,training,,w4aa5eb8
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,50931,training,,w4aa5eb8
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,54932,training,,w4aa5eb8
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,58934,training,,w4aa5eb8
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,62936,training,,w4aa5eb8
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,66938,training,,w4aa5eb8
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,70940,training,,w4aa5eb8
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,74941,training,,w4aa5eb8
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,78943,training,,w4aa5eb8
+12080.300000011921,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen at the same time.<br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        A cross will appear in between trials, and will look like this: <br><br><br> <font size=100px>+</font> <br><br><br>
+        Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,91024,,,w4aa5eb8
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,102006,fixation,,w4aa5eb8
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,106626,fixation,,w4aa5eb8
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,110006,fixation,,w4aa5eb8
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,114451,fixation,,w4aa5eb8
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,117692,fixation,,w4aa5eb8
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,120610,fixation,,w4aa5eb8
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,125466,fixation,,w4aa5eb8
+7526.5999999940395,"
+      <div class=""training""> You  have finished! Thank you. We have automatically recorded your Participant ID. 
+      <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
+      ", ,html-keyboard-response,134920,,,w4aa5eb8
+2295.800000011921,"
+      <div class=""training""> Thank you for finishing the survey! Your answers will help us develop these experiments. 
+      <br> Press any key to finish. </div>
+      ", ,html-keyboard-response,146503,,,w4aa5eb8
+5153.5,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ",s,html-keyboard-response,5158,,,w396608e
+24114.799999952316,"
+        <div class=""instructions"">
+          <p>In this experiment, we are interested in understanding how people make similarity judgements. We will ask you to rate the similarity of different visual stimuli. Each stimulus is a collection of 2-5 shapes of different shading, and will look something like this: <br>
+          <img src='static/images/T.svg' style=""width:30%;padding:10px;""></img> 
+          <br>
+          In the <em>training</em> phase, we will present the stimuli <b> one at a time </b> so that you can become familiar with them. No response is required, and you will not be tested on them later.<br>
+          <br>
+          <br>
+          In the <em>testing</em> phase, we will present the stimuli <b> two at a time</b>, and ask you to rate the similarity of two stimuli by clicking a button on the screen. <br>
+          <br>
+          <br>
+          Press any key to continue.</p>
+        </div>
+      ",s,html-keyboard-response,29784,,,w396608e
+2700.7000000476837,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. There will be five stimuli, repeated twice. 
+        <br> 
+        <br>
+        No response is required, simply observe the stimuli. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ",s,html-keyboard-response,32986,,,w396608e
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,37503,training,,w396608e
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,41508,training,,w396608e
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,45512,training,,w396608e
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,49517,training,,w396608e
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,53519,training,,w396608e
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,57522,training,,w396608e
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,61530,training,,w396608e
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,65539,training,,w396608e
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,69541,training,,w396608e
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,73544,training,,w396608e
+8576.700000047684,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen at the same time.<br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        A cross will appear in between trials, and will look like this: <br><br><br> <font size=100px>+</font> <br><br><br>
+        Press any key to continue.</p>
+        </div>
+      ",x,html-keyboard-response,82122,,,w396608e
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,95488,fixation,,w396608e
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,100019,fixation,,w396608e
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,105221,fixation,,w396608e
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,114380,fixation,,w396608e
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,118287,fixation,,w396608e
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,126390,fixation,,w396608e
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,133258,fixation,,w396608e
+8702.599999904633,"
+      <div class=""training""> You  have finished! Thank you. We have automatically recorded your Participant ID. 
+      <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
+      ",d,html-keyboard-response,144343,,,w396608e
+1985.6000000238419,"
+      <div class=""training""> Thank you for finishing the survey! Your answers will help us develop these experiments. 
+      <br> Press any key to finish. </div>
+      ",f,html-keyboard-response,161445,,,w396608e
+2656.10000000149,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ",arrowright,html-keyboard-response,2658,,,w0328673
+29628.10000000149,"
+        <div class=""instructions"">
+          <p>In this experiment, we are interested in understanding how people make similarity judgements. We will ask you to rate the similarity of different visual stimuli. Each stimulus is a collection of 2-5 shapes of different shading, and will look something like this: <br>
+          <img src='static/images/T.svg' style=""width:30%;padding:10px;""></img> 
+          <br>
+          In the <em>training</em> phase, we will present the stimuli <b> one at a time </b> so that you can become familiar with them. No response is required, and you will not be tested on them later.<br>
+          <br>
+          <br>
+          In the <em>testing</em> phase, we will present the stimuli <b> two at a time</b>, and ask you to rate the similarity of two stimuli by clicking a button on the screen. <br>
+          <br>
+          <br>
+          Press any key to continue.</p>
+        </div>
+      ",enter,html-keyboard-response,32795,,,w0328673
+8211.39999999851,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. There will be five stimuli, repeated twice. 
+        <br> 
+        <br>
+        No response is required, simply observe the stimuli. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ",enter,html-keyboard-response,41508,,,w0328673
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,46011,training,,w0328673
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,50014,training,,w0328673
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,54016,training,,w0328673
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,58018,training,,w0328673
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,62020,training,,w0328673
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,66022,training,,w0328673
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,70024,training,,w0328673
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,74026,training,,w0328673
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,78028,training,,w0328673
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,82030,training,,w0328673
+20017.10000000149,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen at the same time.<br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        A cross will appear in between trials, and will look like this: <br><br><br> <font size=100px>+</font> <br><br><br>
+        Press any key to continue.</p>
+        </div>
+      ",enter,html-keyboard-response,102048,,,w0328673
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,114938,fixation,,w0328673
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,119361,fixation,,w0328673
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,124414,fixation,,w0328673
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,127230,fixation,,w0328673
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,130127,fixation,,w0328673
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,132967,fixation,,w0328673
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,140851,fixation,,w0328673
+3876.300000000745,"
+      <div class=""training""> You  have finished! Thank you. We have automatically recorded your Participant ID. 
+      <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
+      ",enter,html-keyboard-response,146963,,,w0328673
+2504.5,"
+      <div class=""training""> Thank you for finishing the survey! Your answers will help us develop these experiments. 
+      <br> Press any key to finish. </div>
+      ",enter,html-keyboard-response,172786,,,w0328673
+1429.0,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ", ,html-keyboard-response,1435,,,w764ec88
+23121.0,"
+        <div class=""instructions"">
+          <p>In this experiment, we are interested in understanding how people make similarity judgements. We will ask you to rate the similarity of different visual stimuli. Each stimulus is a collection of 2-5 shapes of different shading, and will look something like this: <br>
+          <img src='static/images/T.svg' style=""width:30%;padding:10px;""></img> 
+          <br>
+          In the <em>training</em> phase, we will present the stimuli <b> one at a time </b> so that you can become familiar with them. No response is required, and you will not be tested on them later.<br>
+          <br>
+          <br>
+          In the <em>testing</em> phase, we will present the stimuli <b> two at a time</b>, and ask you to rate the similarity of two stimuli by clicking a button on the screen. <br>
+          <br>
+          <br>
+          Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,25069,,,w764ec88
+20462.0,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. There will be five stimuli, repeated twice. 
+        <br> 
+        <br>
+        No response is required, simply observe the stimuli. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,46036,,,w764ec88
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,50552,training,,w764ec88
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,54558,training,,w764ec88
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,58571,training,,w764ec88
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,62587,training,,w764ec88
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,66595,training,,w764ec88
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,70601,training,,w764ec88
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,74612,training,,w764ec88
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,78627,training,,w764ec88
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,82642,training,,w764ec88
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,86647,training,,w764ec88
+27100.0,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen at the same time.<br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        A cross will appear in between trials, and will look like this: <br><br><br> <font size=100px>+</font> <br><br><br>
+        Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,113750,,,w764ec88
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,120442,fixation,,w764ec88
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,124899,fixation,,w764ec88
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,134908,fixation,,w764ec88
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,139191,fixation,,w764ec88
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,142883,fixation,,w764ec88
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,145478,fixation,,w764ec88
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,147781,fixation,,w764ec88
+3445.0,"
+      <div class=""training""> You  have finished! Thank you. We have automatically recorded your Participant ID. 
+      <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
+      ", ,html-keyboard-response,153817,,,w764ec88
+1202.0,"
+      <div class=""training""> Thank you for finishing the survey! Your answers will help us develop these experiments. 
+      <br> Press any key to finish. </div>
+      ", ,html-keyboard-response,174813,,,w764ec88
+2418.3000000044703,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ",j,html-keyboard-response,2421,,,w8910afc
+48219.60000000149,"
+        <div class=""instructions"">
+          <p>In this experiment, we are interested in understanding how people make similarity judgements. We will ask you to rate the similarity of different visual stimuli. Each stimulus is a collection of 2-5 shapes of different shading, and will look something like this: <br>
+          <img src='static/images/T.svg' style=""width:30%;padding:10px;""></img> 
+          <br>
+          In the <em>training</em> phase, we will present the stimuli <b> one at a time </b> so that you can become familiar with them. No response is required, and you will not be tested on them later.<br>
+          <br>
+          <br>
+          In the <em>testing</em> phase, we will present the stimuli <b> two at a time</b>, and ask you to rate the similarity of two stimuli by clicking a button on the screen. <br>
+          <br>
+          <br>
+          Press any key to continue.</p>
+        </div>
+      ",s,html-keyboard-response,51143,,,w8910afc
+12803.19999999553,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. There will be five stimuli, repeated twice. 
+        <br> 
+        <br>
+        No response is required, simply observe the stimuli. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ",d,html-keyboard-response,64448,,,w8910afc
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,68952,training,,w8910afc
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,72954,training,,w8910afc
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,76956,training,,w8910afc
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,80958,training,,w8910afc
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,84961,training,,w8910afc
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,88964,training,,w8910afc
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,92966,training,,w8910afc
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,96968,training,,w8910afc
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,100970,training,,w8910afc
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,104971,training,,w8910afc
+18242.39999999851,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen at the same time.<br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        A cross will appear in between trials, and will look like this: <br><br><br> <font size=100px>+</font> <br><br><br>
+        Press any key to continue.</p>
+        </div>
+      ",d,html-keyboard-response,123216,,,w8910afc
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,136007,fixation,,w8910afc
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,140626,fixation,,w8910afc
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,144869,fixation,,w8910afc
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,147500,fixation,,w8910afc
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,151201,fixation,,w8910afc
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,155053,fixation,,w8910afc
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,159016,fixation,,w8910afc
+6133.29999999702,"
+      <div class=""training""> You  have finished! Thank you. We have automatically recorded your Participant ID. 
+      <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
+      ",",",html-keyboard-response,167191,,,w8910afc
+3206.0,"
+      <div class=""training""> Thank you for finishing the survey! Your answers will help us develop these experiments. 
+      <br> Press any key to finish. </div>
+      ",m,html-keyboard-response,192530,,,w8910afc
+1154689.0,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ",arrowright,html-keyboard-response,1154691,,,w430285d
+2189.300000000745,"
+        <div class=""instructions"">
+          <p>In this experiment, we are interested in understanding how people make similarity judgements. We will ask you to rate the similarity of different visual stimuli. Each stimulus is a collection of 2-5 shapes of different shading, and will look something like this: <br>
+          <img src='static/images/T.svg' style=""width:30%;padding:10px;""></img> 
+          <br>
+          In the <em>training</em> phase, we will present the stimuli <b> one at a time </b> so that you can become familiar with them. No response is required, and you will not be tested on them later.<br>
+          <br>
+          <br>
+          In the <em>testing</em> phase, we will present the stimuli <b> two at a time</b>, and ask you to rate the similarity of two stimuli by clicking a button on the screen. <br>
+          <br>
+          <br>
+          Press any key to continue.</p>
+        </div>
+      ",arrowup,html-keyboard-response,1157382,,,w430285d
+797.1999999992549,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. There will be five stimuli, repeated twice. 
+        <br> 
+        <br>
+        No response is required, simply observe the stimuli. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ",arrowup,html-keyboard-response,1158680,,,w430285d
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,1163182,training,,w430285d
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,1167185,training,,w430285d
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,1171186,training,,w430285d
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,1175998,training,,w430285d
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,1179999,training,,w430285d
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,1184001,training,,w430285d
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,1188003,training,,w430285d
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,1192004,training,,w430285d
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,1196005,training,,w430285d
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,1200006,training,,w430285d
+12306.39999999851,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen at the same time.<br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        A cross will appear in between trials, and will look like this: <br><br><br> <font size=100px>+</font> <br><br><br>
+        Press any key to continue.</p>
+        </div>
+      ",arrowup,html-keyboard-response,1212313,,,w430285d
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,1224383,fixation,,w430285d
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,1227859,fixation,,w430285d
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,1231462,fixation,,w430285d
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,1235200,fixation,,w430285d
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,1237585,fixation,,w430285d
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,1238988,fixation,,w430285d
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,1242720,fixation,,w430285d
+4601.29999999702,"
+      <div class=""training""> You  have finished! Thank you. We have automatically recorded your Participant ID. 
+      <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
+      ",arrowup,html-keyboard-response,1249470,,,w430285d
+1699.4000000022352,"
+      <div class=""training""> Thank you for finishing the survey! Your answers will help us develop these experiments. 
+      <br> Press any key to finish. </div>
+      ",arrowup,html-keyboard-response,1257950,,,w430285d
+2475.89999999851,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ",k,html-keyboard-response,2479,,,w870ec57
+24909.5,"
+        <div class=""instructions"">
+          <p>In this experiment, we are interested in understanding how people make similarity judgements. We will ask you to rate the similarity of different visual stimuli. Each stimulus is a collection of 2-5 shapes of different shading, and will look something like this: <br>
+          <img src='static/images/T.svg' style=""width:30%;padding:10px;""></img> 
+          <br>
+          In the <em>training</em> phase, we will present the stimuli <b> one at a time </b> so that you can become familiar with them. No response is required, and you will not be tested on them later.<br>
+          <br>
+          <br>
+          In the <em>testing</em> phase, we will present the stimuli <b> two at a time</b>, and ask you to rate the similarity of two stimuli by clicking a button on the screen. <br>
+          <br>
+          <br>
+          Press any key to continue.</p>
+        </div>
+      ",m,html-keyboard-response,27899,,,w870ec57
+12048.800000000745,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. There will be five stimuli, repeated twice. 
+        <br> 
+        <br>
+        No response is required, simply observe the stimuli. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ",m,html-keyboard-response,40457,,,w870ec57
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,44960,training,,w870ec57
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,48962,training,,w870ec57
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,52966,training,,w870ec57
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,56967,training,,w870ec57
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,60968,training,,w870ec57
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,64971,training,,w870ec57
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,68973,training,,w870ec57
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,72975,training,,w870ec57
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,76976,training,,w870ec57
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,80978,training,,w870ec57
+12199.5,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen at the same time.<br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        A cross will appear in between trials, and will look like this: <br><br><br> <font size=100px>+</font> <br><br><br>
+        Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,93179,,,w870ec57
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,102631,fixation,,w870ec57
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,106439,fixation,,w870ec57
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,110971,fixation,,w870ec57
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,115921,fixation,,w870ec57
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,120131,fixation,,w870ec57
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,125892,fixation,,w870ec57
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,128962,fixation,,w870ec57
+9307.300000000745,"
+      <div class=""training""> You  have finished! Thank you. We have automatically recorded your Participant ID. 
+      <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
+      ",k,html-keyboard-response,141018,,,w870ec57
+1916.2000000029802,"
+      <div class=""training""> Thank you for finishing the survey! Your answers will help us develop these experiments. 
+      <br> Press any key to finish. </div>
+      ",k,html-keyboard-response,162082,,,w870ec57
+1674.0,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ",arrowright,html-keyboard-response,1677,,,w3661ea4
+21241.0,"
+        <div class=""instructions"">
+          <p>In this experiment, we are interested in understanding how people make similarity judgements. We will ask you to rate the similarity of different visual stimuli. Each stimulus is a collection of 2-5 shapes of different shading, and will look something like this: <br>
+          <img src='static/images/T.svg' style=""width:30%;padding:10px;""></img> 
+          <br>
+          In the <em>training</em> phase, we will present the stimuli <b> one at a time </b> so that you can become familiar with them. No response is required, and you will not be tested on them later.<br>
+          <br>
+          <br>
+          In the <em>testing</em> phase, we will present the stimuli <b> two at a time</b>, and ask you to rate the similarity of two stimuli by clicking a button on the screen. <br>
+          <br>
+          <br>
+          Press any key to continue.</p>
+        </div>
+      ",arrowright,html-keyboard-response,23421,,,w3661ea4
+7572.0,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. There will be five stimuli, repeated twice. 
+        <br> 
+        <br>
+        No response is required, simply observe the stimuli. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ",arrowright,html-keyboard-response,31496,,,w3661ea4
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,36000,training,,w3661ea4
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,40003,training,,w3661ea4
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,44003,training,,w3661ea4
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,48005,training,,w3661ea4
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,52006,training,,w3661ea4
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,56008,training,,w3661ea4
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,60009,training,,w3661ea4
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,64010,training,,w3661ea4
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,68013,training,,w3661ea4
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,72014,training,,w3661ea4
+13399.0,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen at the same time.<br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        A cross will appear in between trials, and will look like this: <br><br><br> <font size=100px>+</font> <br><br><br>
+        Press any key to continue.</p>
+        </div>
+      ",arrowright,html-keyboard-response,85414,,,w3661ea4
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,93997,fixation,,w3661ea4
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,98118,fixation,,w3661ea4
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,102985,fixation,,w3661ea4
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,106952,fixation,,w3661ea4
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,109970,fixation,,w3661ea4
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,113529,fixation,,w3661ea4
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,117079,fixation,,w3661ea4
+3067.0,"
+      <div class=""training""> You  have finished! Thank you. We have automatically recorded your Participant ID. 
+      <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
+      ",arrowright,html-keyboard-response,123481,,,w3661ea4
+1313.0,"
+      <div class=""training""> Thank you for finishing the survey! Your answers will help us develop these experiments. 
+      <br> Press any key to finish. </div>
+      ",arrowright,html-keyboard-response,146619,,,w3661ea4
+1842.300000011921,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ",k,html-keyboard-response,1844,,,wa0ce88b
+19285.80000001192,"
+        <div class=""instructions"">
+          <p>In this experiment, we are interested in understanding how people make similarity judgements. We will ask you to rate the similarity of different visual stimuli. Each stimulus is a collection of 2-5 shapes of different shading, and will look something like this: <br>
+          <img src='static/images/T.svg' style=""width:30%;padding:10px;""></img> 
+          <br>
+          In the <em>training</em> phase, we will present the stimuli <b> one at a time </b> so that you can become familiar with them. No response is required, and you will not be tested on them later.<br>
+          <br>
+          <br>
+          In the <em>testing</em> phase, we will present the stimuli <b> two at a time</b>, and ask you to rate the similarity of two stimuli by clicking a button on the screen. <br>
+          <br>
+          <br>
+          Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,21635,,,wa0ce88b
+6158.399999976158,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. There will be five stimuli, repeated twice. 
+        <br> 
+        <br>
+        No response is required, simply observe the stimuli. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,28300,,,wa0ce88b
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,32804,training,,wa0ce88b
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,36807,training,,wa0ce88b
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,40809,training,,wa0ce88b
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,44811,training,,wa0ce88b
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,48813,training,,wa0ce88b
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,52816,training,,wa0ce88b
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,56818,training,,wa0ce88b
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,60820,training,,wa0ce88b
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,64822,training,,wa0ce88b
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,68825,training,,wa0ce88b
+9565.300000011921,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen at the same time.<br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        A cross will appear in between trials, and will look like this: <br><br><br> <font size=100px>+</font> <br><br><br>
+        Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,78391,,,wa0ce88b
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,89544,fixation,,wa0ce88b
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,93637,fixation,,wa0ce88b
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,95900,fixation,,wa0ce88b
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,101155,fixation,,wa0ce88b
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,105715,fixation,,wa0ce88b
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,109396,fixation,,wa0ce88b
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,111630,fixation,,wa0ce88b
+1843.0,"
+      <div class=""training""> You  have finished! Thank you. We have automatically recorded your Participant ID. 
+      <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
+      ", ,html-keyboard-response,115715,,,wa0ce88b
+1883.9000000357628,"
+      <div class=""training""> Thank you for finishing the survey! Your answers will help us develop these experiments. 
+      <br> Press any key to finish. </div>
+      ", ,html-keyboard-response,137059,,,wa0ce88b
+3458.7000000476837,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ", ,html-keyboard-response,3460,,,wd9b3be8
+32398.0,"
+        <div class=""instructions"">
+          <p>In this experiment, we are interested in understanding how people make similarity judgements. We will ask you to rate the similarity of different visual stimuli. Each stimulus is a collection of 2-5 shapes of different shading, and will look something like this: <br>
+          <img src='static/images/T.svg' style=""width:30%;padding:10px;""></img> 
+          <br>
+          In the <em>training</em> phase, we will present the stimuli <b> one at a time </b> so that you can become familiar with them. No response is required, and you will not be tested on them later.<br>
+          <br>
+          <br>
+          In the <em>testing</em> phase, we will present the stimuli <b> two at a time</b>, and ask you to rate the similarity of two stimuli by clicking a button on the screen. <br>
+          <br>
+          <br>
+          Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,36360,,,wd9b3be8
+9207.300000011921,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. There will be five stimuli, repeated twice. 
+        <br> 
+        <br>
+        No response is required, simply observe the stimuli. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,46068,,,wd9b3be8
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,50571,training,,wd9b3be8
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,54574,training,,wd9b3be8
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,58575,training,,wd9b3be8
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,62577,training,,wd9b3be8
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,66579,training,,wd9b3be8
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,70581,training,,wd9b3be8
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,74584,training,,wd9b3be8
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,78586,training,,wd9b3be8
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,82588,training,,wd9b3be8
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,86589,training,,wd9b3be8
+18436.0,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen at the same time.<br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        A cross will appear in between trials, and will look like this: <br><br><br> <font size=100px>+</font> <br><br><br>
+        Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,105026,,,wd9b3be8
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,118728,fixation,,wd9b3be8
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,125856,fixation,,wd9b3be8
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,131253,fixation,,wd9b3be8
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,135594,fixation,,wd9b3be8
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,138947,fixation,,wd9b3be8
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,142137,fixation,,wd9b3be8
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,146133,fixation,,wd9b3be8
+6218.0,"
+      <div class=""training""> You  have finished! Thank you. We have automatically recorded your Participant ID. 
+      <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
+      ", ,html-keyboard-response,156066,,,wd9b3be8
+2740.300000011921,"
+      <div class=""training""> Thank you for finishing the survey! Your answers will help us develop these experiments. 
+      <br> Press any key to finish. </div>
+      ", ,html-keyboard-response,179442,,,wd9b3be8
+3301.699999988079,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ",enter,html-keyboard-response,3308,,,w769b099
+24253.20000000298,"
+        <div class=""instructions"">
+          <p>In this experiment, we are interested in understanding how people make similarity judgements. We will ask you to rate the similarity of different visual stimuli. Each stimulus is a collection of 2-5 shapes of different shading, and will look something like this: <br>
+          <img src='static/images/T.svg' style=""width:30%;padding:10px;""></img> 
+          <br>
+          In the <em>training</em> phase, we will present the stimuli <b> one at a time </b> so that you can become familiar with them. No response is required, and you will not be tested on them later.<br>
+          <br>
+          <br>
+          In the <em>testing</em> phase, we will present the stimuli <b> two at a time</b>, and ask you to rate the similarity of two stimuli by clicking a button on the screen. <br>
+          <br>
+          <br>
+          Press any key to continue.</p>
+        </div>
+      ",enter,html-keyboard-response,28064,,,w769b099
+8797.70000000298,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. There will be five stimuli, repeated twice. 
+        <br> 
+        <br>
+        No response is required, simply observe the stimuli. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ",enter,html-keyboard-response,37366,,,w769b099
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,41871,training,,w769b099
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,45874,training,,w769b099
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,49878,training,,w769b099
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,53881,training,,w769b099
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,57884,training,,w769b099
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,61888,training,,w769b099
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,65892,training,,w769b099
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,69895,training,,w769b099
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,73899,training,,w769b099
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,77902,training,,w769b099
+13491.29999999702,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen at the same time.<br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        A cross will appear in between trials, and will look like this: <br><br><br> <font size=100px>+</font> <br><br><br>
+        Press any key to continue.</p>
+        </div>
+      ",enter,html-keyboard-response,91396,,,w769b099
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,100040,fixation,,w769b099
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,105692,fixation,,w769b099
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,109251,fixation,,w769b099
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,111436,fixation,,w769b099
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,115117,fixation,,w769b099
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,118211,fixation,,w769b099
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,123525,fixation,,w769b099
+8136.5999999940395,"
+      <div class=""training""> You  have finished! Thank you. We have automatically recorded your Participant ID. 
+      <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
+      ",enter,html-keyboard-response,134934,,,w769b099
+3182.4000000059605,"
+      <div class=""training""> Thank you for finishing the survey! Your answers will help us develop these experiments. 
+      <br> Press any key to finish. </div>
+      ",enter,html-keyboard-response,159704,,,w769b099
+842.7999999970198,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ", ,html-keyboard-response,861,,,w0ba1e90
+29502.10000000894,"
+        <div class=""instructions"">
+          <p>In this experiment, we are interested in understanding how people make similarity judgements. We will ask you to rate the similarity of different visual stimuli. Each stimulus is a collection of 2-5 shapes of different shading, and will look something like this: <br>
+          <img src='static/images/T.svg' style=""width:30%;padding:10px;""></img> 
+          <br>
+          In the <em>training</em> phase, we will present the stimuli <b> one at a time </b> so that you can become familiar with them. No response is required, and you will not be tested on them later.<br>
+          <br>
+          <br>
+          In the <em>testing</em> phase, we will present the stimuli <b> two at a time</b>, and ask you to rate the similarity of two stimuli by clicking a button on the screen. <br>
+          <br>
+          <br>
+          Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,30880,,,w0ba1e90
+11987.0,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. There will be five stimuli, repeated twice. 
+        <br> 
+        <br>
+        No response is required, simply observe the stimuli. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,43372,,,w0ba1e90
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,47880,training,,w0ba1e90
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,51889,training,,w0ba1e90
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,55896,training,,w0ba1e90
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,59898,training,,w0ba1e90
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,63905,training,,w0ba1e90
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,67911,training,,w0ba1e90
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,71918,training,,w0ba1e90
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,75925,training,,w0ba1e90
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,79928,training,,w0ba1e90
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,83933,training,,w0ba1e90
+12446.70000000298,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen at the same time.<br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        A cross will appear in between trials, and will look like this: <br><br><br> <font size=100px>+</font> <br><br><br>
+        Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,96387,,,w0ba1e90
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,103487,fixation,,w0ba1e90
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,113413,fixation,,w0ba1e90
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,117364,fixation,,w0ba1e90
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,120944,fixation,,w0ba1e90
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,128280,fixation,,w0ba1e90
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,135563,fixation,,w0ba1e90
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,139691,fixation,,w0ba1e90
+4061.5,"
+      <div class=""training""> You  have finished! Thank you. We have automatically recorded your Participant ID. 
+      <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
+      ", ,html-keyboard-response,150325,,,w0ba1e90
+3418.9000000059605,"
+      <div class=""training""> Thank you for finishing the survey! Your answers will help us develop these experiments. 
+      <br> Press any key to finish. </div>
+      ", ,html-keyboard-response,180020,,,w0ba1e90
+2297.2000000178814,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ", ,html-keyboard-response,2300,,,w4d99255
+31851.399999976158,"
+        <div class=""instructions"">
+          <p>In this experiment, we are interested in understanding how people make similarity judgements. We will ask you to rate the similarity of different visual stimuli. Each stimulus is a collection of 2-5 shapes of different shading, and will look something like this: <br>
+          <img src='static/images/T.svg' style=""width:30%;padding:10px;""></img> 
+          <br>
+          In the <em>training</em> phase, we will present the stimuli <b> one at a time </b> so that you can become familiar with them. No response is required, and you will not be tested on them later.<br>
+          <br>
+          <br>
+          In the <em>testing</em> phase, we will present the stimuli <b> two at a time</b>, and ask you to rate the similarity of two stimuli by clicking a button on the screen. <br>
+          <br>
+          <br>
+          Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,34654,,,w4d99255
+19371.20000001788,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. There will be five stimuli, repeated twice. 
+        <br> 
+        <br>
+        No response is required, simply observe the stimuli. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,54527,,,w4d99255
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,59037,training,,w4d99255
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,63043,training,,w4d99255
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,67048,training,,w4d99255
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,71054,training,,w4d99255
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,75059,training,,w4d99255
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,79065,training,,w4d99255
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,83070,training,,w4d99255
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,87076,training,,w4d99255
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,91081,training,,w4d99255
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,95086,training,,w4d99255
+22960.59999999404,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen at the same time.<br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        A cross will appear in between trials, and will look like this: <br><br><br> <font size=100px>+</font> <br><br><br>
+        Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,118049,,,w4d99255
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,127775,fixation,,w4d99255
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,134485,fixation,,w4d99255
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,141002,fixation,,w4d99255
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,146032,fixation,,w4d99255
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,151119,fixation,,w4d99255
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,155744,fixation,,w4d99255
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,160859,fixation,,w4d99255
+8343.5,"
+      <div class=""training""> You  have finished! Thank you. We have automatically recorded your Participant ID. 
+      <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
+      ", ,html-keyboard-response,172723,,,w4d99255
+3554.100000023842,"
+      <div class=""training""> Thank you for finishing the survey! Your answers will help us develop these experiments. 
+      <br> Press any key to finish. </div>
+      ", ,html-keyboard-response,193674,,,w4d99255
+6994.600000023842,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ",j,html-keyboard-response,6996,,,w7736cef
+5208.299999952316,"
+        <div class=""instructions"">
+          <p>In this experiment, we are interested in understanding how people make similarity judgements. We will ask you to rate the similarity of different visual stimuli. Each stimulus is a collection of 2-5 shapes of different shading, and will look something like this: <br>
+          <img src='static/images/T.svg' style=""width:30%;padding:10px;""></img> 
+          <br>
+          In the <em>training</em> phase, we will present the stimuli <b> one at a time </b> so that you can become familiar with them. No response is required, and you will not be tested on them later.<br>
+          <br>
+          <br>
+          In the <em>testing</em> phase, we will present the stimuli <b> two at a time</b>, and ask you to rate the similarity of two stimuli by clicking a button on the screen. <br>
+          <br>
+          <br>
+          Press any key to continue.</p>
+        </div>
+      ",arrowright,html-keyboard-response,12708,,,w7736cef
+3669.7999999523163,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. There will be five stimuli, repeated twice. 
+        <br> 
+        <br>
+        No response is required, simply observe the stimuli. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ",arrowright,html-keyboard-response,16884,,,w7736cef
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,21403,training,,w7736cef
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,25412,training,,w7736cef
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,29414,training,,w7736cef
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,34157,training,,w7736cef
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,38160,training,,w7736cef
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,42164,training,,w7736cef
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,46170,training,,w7736cef
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,50355,training,,w7736cef
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,54356,training,,w7736cef
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,59158,training,,w7736cef
+3062.399999976158,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen at the same time.<br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        A cross will appear in between trials, and will look like this: <br><br><br> <font size=100px>+</font> <br><br><br>
+        Press any key to continue.</p>
+        </div>
+      ",arrowright,html-keyboard-response,62221,,,w7736cef
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,66030,fixation,,w7736cef
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,68006,fixation,,w7736cef
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,69328,fixation,,w7736cef
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,71164,fixation,,w7736cef
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,74444,fixation,,w7736cef
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,76669,fixation,,w7736cef
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,79504,fixation,,w7736cef
+7400.600000023842,"
+      <div class=""training""> You  have finished! Thank you. We have automatically recorded your Participant ID. 
+      <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
+      ",arrowup,html-keyboard-response,87516,,,w7736cef
+12803.900000095367,"
+      <div class=""training""> Thank you for finishing the survey! Your answers will help us develop these experiments. 
+      <br> Press any key to finish. </div>
+      ",arrowdown,html-keyboard-response,126791,,,w7736cef
+2306.100000000093,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ", ,html-keyboard-response,2308,,,w5b288cd
+13721.299999999814,"
+        <div class=""instructions"">
+          <p>In this experiment, we are interested in understanding how people make similarity judgements. We will ask you to rate the similarity of different visual stimuli. Each stimulus is a collection of 2-5 shapes of different shading, and will look something like this: <br>
+          <img src='static/images/T.svg' style=""width:30%;padding:10px;""></img> 
+          <br>
+          In the <em>training</em> phase, we will present the stimuli <b> one at a time </b> so that you can become familiar with them. No response is required, and you will not be tested on them later.<br>
+          <br>
+          <br>
+          In the <em>testing</em> phase, we will present the stimuli <b> two at a time</b>, and ask you to rate the similarity of two stimuli by clicking a button on the screen. <br>
+          <br>
+          <br>
+          Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,16533,,,w5b288cd
+6846.399999999907,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. There will be five stimuli, repeated twice. 
+        <br> 
+        <br>
+        No response is required, simply observe the stimuli. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,23884,,,w5b288cd
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,28395,training,,w5b288cd
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,32401,training,,w5b288cd
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,36407,training,,w5b288cd
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,40408,training,,w5b288cd
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,44412,training,,w5b288cd
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,48417,training,,w5b288cd
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,52422,training,,w5b288cd
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,56428,training,,w5b288cd
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,60433,training,,w5b288cd
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,64439,training,,w5b288cd
+33280.60000000009,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen at the same time.<br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        A cross will appear in between trials, and will look like this: <br><br><br> <font size=100px>+</font> <br><br><br>
+        Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,97721,,,w5b288cd
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,107094,fixation,,w5b288cd
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,113096,fixation,,w5b288cd
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,117473,fixation,,w5b288cd
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,122965,fixation,,w5b288cd
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,128642,fixation,,w5b288cd
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,130896,fixation,,w5b288cd
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,133725,fixation,,w5b288cd
+3226.399999999907,"
+      <div class=""training""> You  have finished! Thank you. We have automatically recorded your Participant ID. 
+      <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
+      ", ,html-keyboard-response,139715,,,w5b288cd
+5592.0,"
+      <div class=""training""> Thank you for finishing the survey! Your answers will help us develop these experiments. 
+      <br> Press any key to finish. </div>
+      ", ,html-keyboard-response,178300,,,w5b288cd
+3494.6999999999534,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ",enter,html-keyboard-response,3498,,,w70e25e6
+27509.899999999907,"
+        <div class=""instructions"">
+          <p>In this experiment, we are interested in understanding how people make similarity judgements. We will ask you to rate the similarity of different visual stimuli. Each stimulus is a collection of 2-5 shapes of different shading, and will look something like this: <br>
+          <img src='static/images/T.svg' style=""width:30%;padding:10px;""></img> 
+          <br>
+          In the <em>training</em> phase, we will present the stimuli <b> one at a time </b> so that you can become familiar with them. No response is required, and you will not be tested on them later.<br>
+          <br>
+          <br>
+          In the <em>testing</em> phase, we will present the stimuli <b> two at a time</b>, and ask you to rate the similarity of two stimuli by clicking a button on the screen. <br>
+          <br>
+          <br>
+          Press any key to continue.</p>
+        </div>
+      ",enter,html-keyboard-response,31511,,,w70e25e6
+10010.59999999986,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. There will be five stimuli, repeated twice. 
+        <br> 
+        <br>
+        No response is required, simply observe the stimuli. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ",enter,html-keyboard-response,42023,,,w70e25e6
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,46530,training,,w70e25e6
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,50535,training,,w70e25e6
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,54541,training,,w70e25e6
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,58546,training,,w70e25e6
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,62552,training,,w70e25e6
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,66557,training,,w70e25e6
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,70563,training,,w70e25e6
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,74568,training,,w70e25e6
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,78574,training,,w70e25e6
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,82579,training,,w70e25e6
+19362.399999999907,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen at the same time.<br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        A cross will appear in between trials, and will look like this: <br><br><br> <font size=100px>+</font> <br><br><br>
+        Press any key to continue.</p>
+        </div>
+      ",enter,html-keyboard-response,101943,,,w70e25e6
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,108988,fixation,,w70e25e6
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,118773,fixation,,w70e25e6
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,128003,fixation,,w70e25e6
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,133901,fixation,,w70e25e6
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,142114,fixation,,w70e25e6
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,151368,fixation,,w70e25e6
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,157230,fixation,,w70e25e6
+5501.799999999814,"
+      <div class=""training""> You  have finished! Thank you. We have automatically recorded your Participant ID. 
+      <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
+      ",enter,html-keyboard-response,164839,,,w70e25e6
+2345.7999999998137,"
+      <div class=""training""> Thank you for finishing the survey! Your answers will help us develop these experiments. 
+      <br> Press any key to finish. </div>
+      ",enter,html-keyboard-response,188015,,,w70e25e6
+2402.899999976158,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ", ,html-keyboard-response,2405,,,wdf085cb
+13538.300000071526,"
+        <div class=""instructions"">
+          <p>In this experiment, we are interested in understanding how people make similarity judgements. We will ask you to rate the similarity of different visual stimuli. Each stimulus is a collection of 2-5 shapes of different shading, and will look something like this: <br>
+          <img src='static/images/T.svg' style=""width:30%;padding:10px;""></img> 
+          <br>
+          In the <em>training</em> phase, we will present the stimuli <b> one at a time </b> so that you can become familiar with them. No response is required, and you will not be tested on them later.<br>
+          <br>
+          <br>
+          In the <em>testing</em> phase, we will present the stimuli <b> two at a time</b>, and ask you to rate the similarity of two stimuli by clicking a button on the screen. <br>
+          <br>
+          <br>
+          Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,16445,,,wdf085cb
+8458.0,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. There will be five stimuli, repeated twice. 
+        <br> 
+        <br>
+        No response is required, simply observe the stimuli. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,25404,,,wdf085cb
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,29908,training,,wdf085cb
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,33910,training,,wdf085cb
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,37913,training,,wdf085cb
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,41914,training,,wdf085cb
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,45916,training,,wdf085cb
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,49917,training,,wdf085cb
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,53919,training,,wdf085cb
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,57920,training,,wdf085cb
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,61922,training,,wdf085cb
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,65923,training,,wdf085cb
+9030.600000023842,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen at the same time.<br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        A cross will appear in between trials, and will look like this: <br><br><br> <font size=100px>+</font> <br><br><br>
+        Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,74955,,,wdf085cb
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,85511,fixation,,wdf085cb
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,89238,fixation,,wdf085cb
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,92108,fixation,,wdf085cb
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,95377,fixation,,wdf085cb
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,97709,fixation,,wdf085cb
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,102260,fixation,,wdf085cb
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,105388,fixation,,wdf085cb
+6242.200000047684,"
+      <div class=""training""> You  have finished! Thank you. We have automatically recorded your Participant ID. 
+      <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
+      ", ,html-keyboard-response,114789,,,wdf085cb
+1834.5,"
+      <div class=""training""> Thank you for finishing the survey! Your answers will help us develop these experiments. 
+      <br> Press any key to finish. </div>
+      ", ,html-keyboard-response,128029,,,wdf085cb
+8960.400000000373,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ",f,html-keyboard-response,8963,,,w6004c42
+54830.700000000186,"
+        <div class=""instructions"">
+          <p>In this experiment, we are interested in understanding how people make similarity judgements. We will ask you to rate the similarity of different visual stimuli. Each stimulus is a collection of 2-5 shapes of different shading, and will look something like this: <br>
+          <img src='static/images/T.svg' style=""width:30%;padding:10px;""></img> 
+          <br>
+          In the <em>training</em> phase, we will present the stimuli <b> one at a time </b> so that you can become familiar with them. No response is required, and you will not be tested on them later.<br>
+          <br>
+          <br>
+          In the <em>testing</em> phase, we will present the stimuli <b> two at a time</b>, and ask you to rate the similarity of two stimuli by clicking a button on the screen. <br>
+          <br>
+          <br>
+          Press any key to continue.</p>
+        </div>
+      ",g,html-keyboard-response,64300,,,w6004c42
+17676.200000000186,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. There will be five stimuli, repeated twice. 
+        <br> 
+        <br>
+        No response is required, simply observe the stimuli. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ",f,html-keyboard-response,82478,,,w6004c42
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,86995,training,,w6004c42
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,90999,training,,w6004c42
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,95013,training,,w6004c42
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,99024,training,,w6004c42
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,103029,training,,w6004c42
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,107032,training,,w6004c42
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,111034,training,,w6004c42
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,115036,training,,w6004c42
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,119037,training,,w6004c42
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,123040,training,,w6004c42
+28787.400000000373,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen at the same time.<br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        A cross will appear in between trials, and will look like this: <br><br><br> <font size=100px>+</font> <br><br><br>
+        Press any key to continue.</p>
+        </div>
+      ",f,html-keyboard-response,151828,,,w6004c42
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,176935,fixation,,w6004c42
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,186503,fixation,,w6004c42
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,192682,fixation,,w6004c42
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,201743,fixation,,w6004c42
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,210837,fixation,,w6004c42
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,215788,fixation,,w6004c42
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,222453,fixation,,w6004c42
+5504.200000000186,"
+      <div class=""training""> You  have finished! Thank you. We have automatically recorded your Participant ID. 
+      <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
+      ",f,html-keyboard-response,234931,,,w6004c42
+3659.7999999998137,"
+      <div class=""training""> Thank you for finishing the survey! Your answers will help us develop these experiments. 
+      <br> Press any key to finish. </div>
+      ",f,html-keyboard-response,303468,,,w6004c42
+2680.2999999970198,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ", ,html-keyboard-response,2682,,,w06e41a8
+22368.70000000298,"
+        <div class=""instructions"">
+          <p>In this experiment, we are interested in understanding how people make similarity judgements. We will ask you to rate the similarity of different visual stimuli. Each stimulus is a collection of 2-5 shapes of different shading, and will look something like this: <br>
+          <img src='static/images/T.svg' style=""width:30%;padding:10px;""></img> 
+          <br>
+          In the <em>training</em> phase, we will present the stimuli <b> one at a time </b> so that you can become familiar with them. No response is required, and you will not be tested on them later.<br>
+          <br>
+          <br>
+          In the <em>testing</em> phase, we will present the stimuli <b> two at a time</b>, and ask you to rate the similarity of two stimuli by clicking a button on the screen. <br>
+          <br>
+          <br>
+          Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,25557,,,w06e41a8
+8645.79999999702,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. There will be five stimuli, repeated twice. 
+        <br> 
+        <br>
+        No response is required, simply observe the stimuli. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,34706,,,w06e41a8
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,39210,training,,w06e41a8
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,43212,training,,w06e41a8
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,47214,training,,w06e41a8
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,51216,training,,w06e41a8
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,55218,training,,w06e41a8
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,59220,training,,w06e41a8
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,63222,training,,w06e41a8
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,67224,training,,w06e41a8
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,71226,training,,w06e41a8
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,75228,training,,w06e41a8
+14224.09999999404,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen at the same time.<br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        A cross will appear in between trials, and will look like this: <br><br><br> <font size=100px>+</font> <br><br><br>
+        Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,89453,,,w06e41a8
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,97225,fixation,,w06e41a8
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,104254,fixation,,w06e41a8
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,109294,fixation,,w06e41a8
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,114900,fixation,,w06e41a8
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,120146,fixation,,w06e41a8
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,124884,fixation,,w06e41a8
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,131042,fixation,,w06e41a8
+6224.0,"
+      <div class=""training""> You  have finished! Thank you. We have automatically recorded your Participant ID. 
+      <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
+      ", ,html-keyboard-response,138563,,,w06e41a8
+2529.8999999910593,"
+      <div class=""training""> Thank you for finishing the survey! Your answers will help us develop these experiments. 
+      <br> Press any key to finish. </div>
+      ", ,html-keyboard-response,158604,,,w06e41a8
+6355.300000000745,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ",k,html-keyboard-response,6358,,,w9c9eec8
+1104.699999999255,"
+        <div class=""instructions"">
+          <p>In this experiment, we are interested in understanding how people make similarity judgements. We will ask you to rate the similarity of different visual stimuli. Each stimulus is a collection of 2-5 shapes of different shading, and will look something like this: <br>
+          <img src='static/images/T.svg' style=""width:30%;padding:10px;""></img> 
+          <br>
+          In the <em>training</em> phase, we will present the stimuli <b> one at a time </b> so that you can become familiar with them. No response is required, and you will not be tested on them later.<br>
+          <br>
+          <br>
+          In the <em>testing</em> phase, we will present the stimuli <b> two at a time</b>, and ask you to rate the similarity of two stimuli by clicking a button on the screen. <br>
+          <br>
+          <br>
+          Press any key to continue.</p>
+        </div>
+      ",k,html-keyboard-response,7965,,,w9c9eec8
+416.0,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. There will be five stimuli, repeated twice. 
+        <br> 
+        <br>
+        No response is required, simply observe the stimuli. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ",k,html-keyboard-response,8886,,,w9c9eec8
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,13391,training,,w9c9eec8
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,18410,training,,w9c9eec8
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,22842,training,,w9c9eec8
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,26847,training,,w9c9eec8
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,31414,training,,w9c9eec8
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,35416,training,,w9c9eec8
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,39418,training,,w9c9eec8
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,43419,training,,w9c9eec8
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,47421,training,,w9c9eec8
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,51424,training,,w9c9eec8
+10723.800000000745,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen at the same time.<br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        A cross will appear in between trials, and will look like this: <br><br><br> <font size=100px>+</font> <br><br><br>
+        Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,62149,,,w9c9eec8
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,69034,fixation,,w9c9eec8
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,72837,fixation,,w9c9eec8
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,76335,fixation,,w9c9eec8
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,78999,fixation,,w9c9eec8
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,81743,fixation,,w9c9eec8
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,84887,fixation,,w9c9eec8
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,87805,fixation,,w9c9eec8
+3384.9000000003725,"
+      <div class=""training""> You  have finished! Thank you. We have automatically recorded your Participant ID. 
+      <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
+      ",k,html-keyboard-response,93235,,,w9c9eec8
+3095.60000000149,"
+      <div class=""training""> Thank you for finishing the survey! Your answers will help us develop these experiments. 
+      <br> Press any key to finish. </div>
+      ",k,html-keyboard-response,114041,,,w9c9eec8
+2866.199999988079,"
+      <div class=""instructions"">
+        <p class=""center"">Welcome to the experiment. Press any key to begin.</p>
+      </div>
+      ", ,html-keyboard-response,2871,,,wa88aba9
+58871.29999998212,"
+        <div class=""instructions"">
+          <p>In this experiment, we are interested in understanding how people make similarity judgements. We will ask you to rate the similarity of different visual stimuli. Each stimulus is a collection of 2-5 shapes of different shading, and will look something like this: <br>
+          <img src='static/images/T.svg' style=""width:30%;padding:10px;""></img> 
+          <br>
+          In the <em>training</em> phase, we will present the stimuli <b> one at a time </b> so that you can become familiar with them. No response is required, and you will not be tested on them later.<br>
+          <br>
+          <br>
+          In the <em>testing</em> phase, we will present the stimuli <b> two at a time</b>, and ask you to rate the similarity of two stimuli by clicking a button on the screen. <br>
+          <br>
+          <br>
+          Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,62252,,,wa88aba9
+27907.40000000596,"
+        <div class=""instructions"">
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. There will be five stimuli, repeated twice. 
+        <br> 
+        <br>
+        No response is required, simply observe the stimuli. <br>
+        <br>
+        Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,90670,,,wa88aba9
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,95188,training,,wa88aba9
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,99202,training,,wa88aba9
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,103213,training,,wa88aba9
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,107218,training,,wa88aba9
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,111223,training,,wa88aba9
+,"
+                <div class=""training"";'><img src=""static/images/C.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,115231,training,,wa88aba9
+,"
+                <div class=""training"";'><img src=""static/images/A.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,119234,training,,wa88aba9
+,"
+                <div class=""training"";'><img src=""static/images/B.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,123240,training,,wa88aba9
+,"
+                <div class=""training"";'><img src=""static/images/T.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,127251,training,,wa88aba9
+,"
+                <div class=""training"";'><img src=""static/images/D.svg"" width=""45%""></img></div>
+                <p></p>",,html-keyboard-response,131260,training,,wa88aba9
+42551.70000001788,"
+        <div class=""instructions"">
+        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        of the screen at the same time.<br>
+        <br>
+        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
+        stimuli are. <br>
+        <br>
+        A cross will appear in between trials, and will look like this: <br><br><br> <font size=100px>+</font> <br><br><br>
+        Press any key to continue.</p>
+        </div>
+      ", ,html-keyboard-response,173813,,,wa88aba9
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,195033,fixation,,wa88aba9
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,202978,fixation,,wa88aba9
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,210793,fixation,,wa88aba9
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,217419,fixation,,wa88aba9
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,222666,fixation,,wa88aba9
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,229711,fixation,,wa88aba9
+,"<div class=""training"" style=""font-size:100px;"">+</div>",,html-keyboard-response,237517,fixation,,wa88aba9
+14574.799999982119,"
+      <div class=""training""> You  have finished! Thank you. We have automatically recorded your Participant ID. 
+      <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
+      ", ,html-keyboard-response,259292,,,wa88aba9
+7796.0,"
+      <div class=""training""> Thank you for finishing the survey! Your answers will help us develop these experiments. 
+      <br> Press any key to finish. </div>
+      ", ,html-keyboard-response,320745,,,wa88aba9

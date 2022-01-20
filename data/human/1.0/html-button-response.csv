@@ -1,0 +1,1489 @@
+rt,stimulus,response,trial_type,time_elapsed,task,question_order,wid
+8034.0999999940395,"
+                <div><img src='static/images/T.svg' style=""width:50%;padding:10px;""></img><img src=""static/images/D.svg"" style=""width:50%;padding:10px;""></img></div>
+                ",5,html-button-response,92601,response,,w86a7f6a
+4676.199999988079,"
+                <div><img src='static/images/T.svg' style=""width:50%;padding:10px;""></img><img src=""static/images/A.svg"" style=""width:50%;padding:10px;""></img></div>
+                ",7,html-button-response,98281,response,,w86a7f6a
+3100.0999999940395,"
+                <div><img src='static/images/T.svg' style=""width:50%;padding:10px;""></img><img src=""static/images/B.svg"" style=""width:50%;padding:10px;""></img></div>
+                ",1,html-button-response,101633,response,,w86a7f6a
+2042.9000000059605,"
+                <div><img src='static/images/T.svg' style=""width:50%;padding:10px;""></img><img src=""static/images/C.svg"" style=""width:50%;padding:10px;""></img></div>
+                ",6,html-button-response,103928,response,,w86a7f6a
+6214.699999988079,"
+                <div><img src='static/images/T.svg' style=""width:50%;padding:10px;""></img><img src=""static/images/D.svg"" style=""width:50%;padding:10px;""></img></div>
+                ",8,html-button-response,179122,response,,we8453df
+436.80000001192093,"
+                <div><img src='static/images/T.svg' style=""width:50%;padding:10px;""></img><img src=""static/images/A.svg"" style=""width:50%;padding:10px;""></img></div>
+                ",7,html-button-response,180312,response,,we8453df
+677.5,"
+                <div><img src='static/images/T.svg' style=""width:50%;padding:10px;""></img><img src=""static/images/B.svg"" style=""width:50%;padding:10px;""></img></div>
+                ",6,html-button-response,182995,response,,we8453df
+903.1000000238419,"
+                <div><img src='static/images/T.svg' style=""width:50%;padding:10px;""></img><img src=""static/images/C.svg"" style=""width:50%;padding:10px;""></img></div>
+                ",5,html-button-response,184155,response,,we8453df
+747.0,"
+                <div><img src='static/images/T.svg' style=""width:50%;padding:10px;""></img><img src=""static/images/B.svg"" style=""width:50%;padding:10px;""></img></div>
+                ",4,html-button-response,47135,response,,wb4d0e59
+582.8999999761581,"
+                <div><img src='static/images/T.svg' style=""width:50%;padding:10px;""></img><img src=""static/images/D.svg"" style=""width:50%;padding:10px;""></img></div>
+                ",5,html-button-response,49221,response,,wb4d0e59
+546.1999999880791,"
+                <div><img src='static/images/T.svg' style=""width:50%;padding:10px;""></img><img src=""static/images/C.svg"" style=""width:50%;padding:10px;""></img></div>
+                ",5,html-button-response,50023,response,,wb4d0e59
+420.39999997615814,"
+                <div><img src='static/images/T.svg' style=""width:50%;padding:10px;""></img><img src=""static/images/A.svg"" style=""width:50%;padding:10px;""></img></div>
+                ",4,html-button-response,51696,response,,wb4d0e59
+24779.30000001192,"
+                <div><img src='static/images/T.svg' style=""width:50%;padding:10px;""></img><img src=""static/images/D.svg"" style=""width:50%;padding:10px;""></img></div>
+                ",5,html-button-response,415948,response,,w8fe1e0c
+4080.2999999523163,"
+                <div><img src='static/images/T.svg' style=""width:50%;padding:10px;""></img><img src=""static/images/A.svg"" style=""width:50%;padding:10px;""></img></div>
+                ",3,html-button-response,421033,response,,w8fe1e0c
+1412.300000011921,"
+                <div><img src='static/images/T.svg' style=""width:50%;padding:10px;""></img><img src=""static/images/C.svg"" style=""width:50%;padding:10px;""></img></div>
+                ",6,html-button-response,424455,response,,w8fe1e0c
+2542.0,"
+                <div><img src='static/images/T.svg' style=""width:50%;padding:10px;""></img><img src=""static/images/B.svg"" style=""width:50%;padding:10px;""></img></div>
+                ",5,html-button-response,429002,response,,w8fe1e0c
+562.0,"
+            <div>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,45270,response_L,,w85a4c6c
+397.0,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,47422,response_R,,w85a4c6c
+379.6000000089407,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,49303,response_R,,w85a4c6c
+379.90000000596046,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,51187,response_R,,w85a4c6c
+332.90000000596046,"
+            <div>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,53275,response_L,,w85a4c6c
+572.2000000029802,"
+            <div>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,54851,response_L,,w85a4c6c
+347.20000000298023,"
+            <div>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,56455,response_L,,w85a4c6c
+248.29999999701977,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,58207,response_R,,w85a4c6c
+3685.6000000089407,"
+            <div>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,67105,response_L,,w8488b17
+775.1000000089407,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,69136,response_R,,w8488b17
+538.0,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,70427,response_R,,w8488b17
+484.09999999403954,"
+            <div>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,72667,response_L,,w8488b17
+661.5999999940395,"
+            <div>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,75084,response_L,,w8488b17
+1150.2999999970198,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,76738,response_R,,w8488b17
+934.2999999970198,"
+            <div>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,79677,response_L,,w8488b17
+2688.4000000059605,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,83620,response_R,,w8488b17
+19318.5,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",3,html-button-response,116437,response_R,,wf0b51ce
+2953.400000035763,"
+            <div>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",5,html-button-response,120896,response_L,,wf0b51ce
+2597.0,"
+            <div>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",6,html-button-response,123748,response_L,,wf0b51ce
+2612.600000023842,"
+            <div>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",2,html-button-response,128365,response_L,,wf0b51ce
+3296.099999964237,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",7,html-button-response,133165,response_R,,wf0b51ce
+2223.0,"
+            <div>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",2,html-button-response,136391,response_L,,wf0b51ce
+1695.300000011921,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",6,html-button-response,138840,response_R,,wf0b51ce
+1755.5,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",2,html-button-response,141100,response_R,,wf0b51ce
+15195.29999999702,"
+            <div>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,129225,response_L,,w7d05b6c
+20979.60000000149,"
+            <div>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",1,html-button-response,150965,response_L,,w7d05b6c
+3630.5,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,156103,response_R,,w7d05b6c
+5489.0,"
+            <div>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,163348,response_L,,w7d05b6c
+4810.29999999702,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",2,html-button-response,168417,response_R,,w7d05b6c
+8485.60000000149,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",3,html-button-response,178660,response_R,,w7d05b6c
+3176.2999999970198,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,182594,response_R,,w7d05b6c
+2979.0,"
+            <div>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",3,html-button-response,186829,response_L,,w7d05b6c
+9796.800000011921,"
+            <div>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,98481,response_L,,w6b5d6af
+3419.0,"
+            <div>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",1,html-button-response,102166,response_L,,w6b5d6af
+3971.399999976158,"
+            <div>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,107651,response_L,,w6b5d6af
+3036.0,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,112199,response_R,,w6b5d6af
+1916.0,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,115124,response_R,,w6b5d6af
+5275.800000011921,"
+            <div>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",6,html-button-response,120913,response_L,,w6b5d6af
+2126.400000035763,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",6,html-button-response,124349,response_R,,w6b5d6af
+2395.600000023842,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",7,html-button-response,128255,response_R,,w6b5d6af
+18270.199999809265,"
+            <div>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",8,html-button-response,124280,response_L,,w397f51b
+15617.299999952316,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",7,html-button-response,140408,response_R,,w397f51b
+10401.0,"
+            <div>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,151066,response_L,,w397f51b
+8189.299999952316,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,160026,response_R,,w397f51b
+11923.0,"
+            <div>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",8,html-button-response,173956,response_L,,w397f51b
+3858.5999999046326,"
+            <div>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,178325,response_L,,w397f51b
+13463.799999952316,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,192294,response_R,,w397f51b
+4306.200000047684,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",8,html-button-response,197863,response_R,,w397f51b
+2506.600000023842,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,57450,response_R,,w2094a7b
+2214.1999999284744,"
+            <div>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",1,html-button-response,61418,response_L,,w2094a7b
+1528.0,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",1,html-button-response,64698,response_R,,w2094a7b
+1463.6999999284744,"
+            <div>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,67914,response_L,,w2094a7b
+3962.2999999523163,"
+            <div>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,72378,response_L,,w2094a7b
+4502.100000023842,"
+            <div>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",7,html-button-response,78882,response_L,,w2094a7b
+1475.5,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",7,html-button-response,80610,response_R,,w2094a7b
+1970.2000000476837,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,84082,response_R,,w2094a7b
+6603.9000000059605,"
+            <div>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",5,html-button-response,111170,response_L,,w6a02edb
+3265.2999999821186,"
+            <div>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",2,html-button-response,115438,response_L,,w6a02edb
+2679.2000000178814,"
+            <div>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",3,html-button-response,119869,response_L,,w6a02edb
+1787.1000000238419,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",5,html-button-response,122409,response_R,,w6a02edb
+2073.2000000178814,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",3,html-button-response,126235,response_R,,w6a02edb
+1640.199999988079,"
+            <div>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",3,html-button-response,129377,response_L,,w6a02edb
+3272.0,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",2,html-button-response,133402,response_R,,w6a02edb
+1442.5,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",2,html-button-response,135348,response_R,,w6a02edb
+8999.300000011921,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,107302,response_R,,wdff3247
+4186.29999999702,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",6,html-button-response,112240,response_R,,wdff3247
+4717.399999991059,"
+            <div>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,117210,response_L,,wdff3247
+6386.899999991059,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",3,html-button-response,123849,response_R,,wdff3247
+2856.3999999910593,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,127207,response_R,,wdff3247
+36938.29999999702,"
+            <div>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,165897,response_L,,wdff3247
+4012.300000011921,"
+            <div>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",3,html-button-response,171412,response_L,,wdff3247
+3825.7999999970198,"
+            <div>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",5,html-button-response,175491,response_L,,wdff3247
+9978.699999988079,"
+            <div>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",2,html-button-response,101505,response_L,,w4aa5eb8
+4117.5999999940395,"
+            <div>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",5,html-button-response,106125,response_L,,w4aa5eb8
+3128.100000023842,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,109755,response_R,,w4aa5eb8
+3442.2999999821186,"
+            <div>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",6,html-button-response,113449,response_L,,w4aa5eb8
+2738.800000011921,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",1,html-button-response,117191,response_R,,w4aa5eb8
+1915.699999988079,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",5,html-button-response,119609,response_R,,w4aa5eb8
+2854.0999999940395,"
+            <div>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",1,html-button-response,123465,response_L,,w4aa5eb8
+1925.300000011921,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",7,html-button-response,127392,response_R,,w4aa5eb8
+11109.899999976158,"
+            <div>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",8,html-button-response,93735,response_L,,w396608e
+3274.0,"
+            <div>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,98767,response_L,,w396608e
+4697.800000071526,"
+            <div>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",1,html-button-response,104718,response_L,,w396608e
+7902.600000023842,"
+            <div>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",6,html-button-response,113128,response_L,,w396608e
+3153.600000023842,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",1,html-button-response,117536,response_R,,w396608e
+7597.100000023842,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",6,html-button-response,125888,response_R,,w396608e
+4863.399999976158,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",7,html-button-response,131256,response_R,,w396608e
+2380.0,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,135639,response_R,,w396608e
+10384.599999997765,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,112935,response_R,,w0328673
+3170.400000002235,"
+            <div>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,118109,response_L,,w0328673
+4051.39999999851,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",3,html-button-response,123413,response_R,,w0328673
+2062.199999999255,"
+            <div>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,126478,response_L,,w0328673
+1894.0,"
+            <div>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",3,html-button-response,129126,response_L,,w0328673
+1837.5,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,131966,response_R,,w0328673
+6381.39999999851,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",7,html-button-response,139349,response_R,,w0328673
+2233.599999997765,"
+            <div>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",7,html-button-response,143085,response_L,,w0328673
+5419.0,"
+            <div>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,119678,response_L,,w764ec88
+2952.0,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,123395,response_R,,w764ec88
+8490.0,"
+            <div>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",5,html-button-response,133393,response_L,,w764ec88
+3521.0,"
+            <div>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",1,html-button-response,138431,response_L,,w764ec88
+3176.0,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",3,html-button-response,142371,response_R,,w764ec88
+2340.0,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",5,html-button-response,145226,response_R,,w764ec88
+1787.0,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,147269,response_R,,w764ec88
+2583.0,"
+            <div>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",2,html-button-response,150368,response_L,,w764ec88
+10536.0,"
+            <div>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",6,html-button-response,134255,response_L,,w8910afc
+3366.6999999955297,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,139375,response_R,,w8910afc
+3239.7999999970198,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",6,html-button-response,143867,response_R,,w8910afc
+1379.1999999955297,"
+            <div>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,146249,response_L,,w8910afc
+3197.7000000029802,"
+            <div>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,150700,response_L,,w8910afc
+2850.0,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,154052,response_R,,w8910afc
+2960.60000000149,"
+            <div>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",7,html-button-response,158015,response_L,,w8910afc
+2039.3999999985099,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",7,html-button-response,161057,response_R,,w8910afc
+9566.900000002235,"
+            <div>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",5,html-button-response,1222382,response_L,,w430285d
+2224.0,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",2,html-button-response,1226607,response_R,,w430285d
+1852.300000000745,"
+            <div>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",2,html-button-response,1229712,response_L,,w430285d
+1736.199999999255,"
+            <div>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",2,html-button-response,1233199,response_L,,w430285d
+1382.0,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",5,html-button-response,1236583,response_R,,w430285d
+1151.199999999255,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",2,html-button-response,1238736,response_R,,w430285d
+1730.8999999985099,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,1240719,response_R,,w430285d
+2147.10000000149,"
+            <div>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",5,html-button-response,1244868,response_L,,w430285d
+8199.0,"
+            <div>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",7,html-button-response,101880,response_L,,w870ec57
+2304.7999999970198,"
+            <div>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",8,html-button-response,104938,response_L,,w870ec57
+3029.10000000149,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",3,html-button-response,109470,response_R,,w870ec57
+4697.39999999851,"
+            <div>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,115670,response_L,,w870ec57
+2208.0,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",8,html-button-response,118130,response_R,,w870ec57
+4507.099999997765,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",6,html-button-response,124640,response_R,,w870ec57
+2566.0,"
+            <div>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",3,html-button-response,128459,response_L,,w870ec57
+2746.0,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",5,html-button-response,131710,response_R,,w870ec57
+7079.0,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",2,html-button-response,92995,response_R,,w3661ea4
+2369.0,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",2,html-button-response,96367,response_R,,w3661ea4
+2864.0,"
+            <div>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",5,html-button-response,100983,response_L,,w3661ea4
+2714.0,"
+            <div>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",2,html-button-response,105700,response_L,,w3661ea4
+2266.0,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",5,html-button-response,109218,response_R,,w3661ea4
+3056.0,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,113027,response_R,,w3661ea4
+1547.0,"
+            <div>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",2,html-button-response,115077,response_L,,w3661ea4
+3333.0,"
+            <div>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",5,html-button-response,120413,response_L,,w3661ea4
+9391.400000035763,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",3,html-button-response,88289,response_R,,wa0ce88b
+2085.600000023842,"
+            <div>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",3,html-button-response,91634,response_L,,wa0ce88b
+2007.800000011921,"
+            <div>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",2,html-button-response,95648,response_L,,wa0ce88b
+4000.399999976158,"
+            <div>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",5,html-button-response,99903,response_L,,wa0ce88b
+2552.199999988079,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",6,html-button-response,103712,response_R,,wa0ce88b
+1923.0,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",2,html-button-response,107641,response_R,,wa0ce88b
+1479.5,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",2,html-button-response,110878,response_R,,wa0ce88b
+2237.399999976158,"
+            <div>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",1,html-button-response,113871,response_L,,wa0ce88b
+11197.900000035763,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",2,html-button-response,116727,response_R,,wd9b3be8
+5125.699999988079,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",1,html-button-response,123855,response_R,,wd9b3be8
+4645.199999988079,"
+            <div>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,130502,response_L,,wd9b3be8
+4088.300000011921,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",2,html-button-response,135343,response_R,,wd9b3be8
+2850.699999988079,"
+            <div>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",5,html-button-response,138446,response_L,,wd9b3be8
+2187.699999988079,"
+            <div>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,141136,response_L,,wd9b3be8
+3494.199999988079,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",5,html-button-response,145632,response_R,,wd9b3be8
+3713.300000011921,"
+            <div>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",2,html-button-response,149847,response_L,,wd9b3be8
+6133.20000000298,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,98035,response_R,,w769b099
+4398.0,"
+            <div>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,104440,response_L,,w769b099
+2805.2000000029802,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,108499,response_R,,w769b099
+1929.7999999970198,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,111184,response_R,,w769b099
+2425.4000000059605,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",6,html-button-response,113865,response_R,,w769b099
+1839.5,"
+            <div>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",6,html-button-response,116958,response_L,,w769b099
+3557.300000011921,"
+            <div>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",1,html-button-response,121771,response_L,,w769b099
+3265.7999999970198,"
+            <div>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,126794,response_L,,w769b099
+6333.5,"
+            <div>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,103229,response_L,,w0ba1e90
+8166.4000000059605,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,111659,response_R,,w0ba1e90
+3443.7999999970198,"
+            <div>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,116862,response_L,,w0ba1e90
+3319.5,"
+            <div>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",6,html-button-response,120690,response_L,,w0ba1e90
+5827.399999991059,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,126776,response_R,,w0ba1e90
+5520.29999999702,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,133809,response_R,,w0ba1e90
+2614.5,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",6,html-button-response,138187,response_R,,w0ba1e90
+6562.600000008941,"
+            <div>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",1,html-button-response,146260,response_L,,w0ba1e90
+8467.700000017881,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,127023,response_R,,w4d99255
+5702.200000017881,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",7,html-button-response,133479,response_R,,w4d99255
+5262.4000000059605,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",2,html-button-response,139749,response_R,,w4d99255
+3523.5,"
+            <div>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,144527,response_L,,w4d99255
+3084.199999988079,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,149118,response_R,,w4d99255
+4119.200000017881,"
+            <div>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",6,html-button-response,155240,response_L,,w4d99255
+4111.0,"
+            <div>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",1,html-button-response,159857,response_L,,w4d99255
+3518.600000023842,"
+            <div>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",1,html-button-response,164379,response_L,,w4d99255
+2554.7000000476837,"
+            <div>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,65278,response_L,,w7736cef
+1723.0,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",5,html-button-response,67754,response_R,,w7736cef
+1069.7000000476837,"
+            <div>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",3,html-button-response,69077,response_L,,w7736cef
+583.3999999761581,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",5,html-button-response,69913,response_R,,w7736cef
+1527.1000000238419,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",1,html-button-response,72692,response_R,,w7736cef
+1221.8999999761581,"
+            <div>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",7,html-button-response,75667,response_L,,w7736cef
+2082.2000000476837,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",2,html-button-response,78752,response_R,,w7736cef
+609.8999999761581,"
+            <div>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",3,html-button-response,80115,response_L,,w7736cef
+7612.799999999814,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",5,html-button-response,105839,response_R,,w5b288cd
+4748.4000000003725,"
+            <div>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",2,html-button-response,111845,response_L,,w5b288cd
+3120.600000000093,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",8,html-button-response,116219,response_R,,w5b288cd
+4486.399999999907,"
+            <div>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",2,html-button-response,121962,response_L,,w5b288cd
+4922.799999999814,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",3,html-button-response,127890,response_R,,w5b288cd
+1750.6000000000931,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",3,html-button-response,130395,response_R,,w5b288cd
+1573.3000000002794,"
+            <div>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",3,html-button-response,132471,response_L,,w5b288cd
+2759.6999999997206,"
+            <div>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",5,html-button-response,136487,response_L,,w5b288cd
+6287.899999999907,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",7,html-button-response,108734,response_R,,w70e25e6
+8277.40000000014,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",1,html-button-response,117268,response_R,,w70e25e6
+8222.399999999907,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,126997,response_R,,w70e25e6
+4393.09999999986,"
+            <div>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,132398,response_L,,w70e25e6
+6958.5,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",6,html-button-response,140862,response_R,,w70e25e6
+7496.600000000093,"
+            <div>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",1,html-button-response,149613,response_L,,w70e25e6
+4605.40000000014,"
+            <div>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",3,html-button-response,155976,response_L,,w70e25e6
+2103.5,"
+            <div>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,159335,response_L,,w70e25e6
+8801.300000071526,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",6,html-button-response,84258,response_R,,wdf085cb
+2724.5,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,88237,response_R,,wdf085cb
+2117.8000000715256,"
+            <div>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",5,html-button-response,91357,response_L,,wdf085cb
+2015.9000000953674,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",6,html-button-response,94125,response_R,,wdf085cb
+1830.0,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",7,html-button-response,97208,response_R,,wdf085cb
+3048.5,"
+            <div>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",5,html-button-response,100759,response_L,,wdf085cb
+1875.2999999523163,"
+            <div>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,104137,response_L,,wdf085cb
+3155.5,"
+            <div>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,108545,response_L,,wdf085cb
+24352.799999999814,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",1,html-button-response,176683,response_R,,w6004c42
+8064.299999999814,"
+            <div>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",3,html-button-response,185001,response_L,,w6004c42
+4921.700000000186,"
+            <div>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",1,html-button-response,191426,response_L,,w6004c42
+8557.700000000186,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,201241,response_R,,w6004c42
+7841.0,"
+            <div>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",6,html-button-response,209585,response_L,,w6004c42
+2947.5999999996275,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",6,html-button-response,213786,response_R,,w6004c42
+6411.600000000559,"
+            <div>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",0,html-button-response,222201,response_L,,w6004c42
+6971.0999999996275,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,229426,response_R,,w6004c42
+6266.899999991059,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",6,html-button-response,96223,response_R,,w06e41a8
+5526.600000008941,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,102753,response_R,,w06e41a8
+3537.2000000029802,"
+            <div>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,107793,response_L,,w06e41a8
+3604.0999999940395,"
+            <div>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",3,html-button-response,112899,response_L,,w06e41a8
+3743.2000000029802,"
+            <div>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",4,html-button-response,118645,response_L,,w06e41a8
+2734.9000000059605,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",3,html-button-response,122883,response_R,,w06e41a8
+5156.0,"
+            <div>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",5,html-button-response,130041,response_L,,w06e41a8
+1295.5,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",5,html-button-response,132339,response_R,,w06e41a8
+5127.5,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",2,html-button-response,67782,response_R,,w9c9eec8
+2294.800000000745,"
+            <div>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",5,html-button-response,71331,response_L,,w9c9eec8
+1991.199999999255,"
+            <div>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",7,html-button-response,74830,response_L,,w9c9eec8
+1657.2999999988824,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",5,html-button-response,77994,response_R,,w9c9eec8
+988.5,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",2,html-button-response,79989,response_R,,w9c9eec8
+1639.4000000003725,"
+            <div>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",7,html-button-response,83385,response_L,,w9c9eec8
+1411.5,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",6,html-button-response,86301,response_R,,w9c9eec8
+2042.199999999255,"
+            <div>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",1,html-button-response,89849,response_L,,w9c9eec8
+20195.90000000596,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",3,html-button-response,194521,response_R,,wa88aba9
+6684.299999982119,"
+            <div>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",5,html-button-response,201719,response_L,,wa88aba9
+6555.0,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",7,html-button-response,209537,response_R,,wa88aba9
+5367.5,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/D.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",8,html-button-response,216164,response_R,,wa88aba9
+4235.799999982119,"
+            <div>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            </div>
+        ",8,html-button-response,221658,response_R,,wa88aba9
+6531.600000023842,"
+            <div>
+            <img src=""static/images/A.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",7,html-button-response,229200,response_L,,wa88aba9
+5798.4000000059605,"
+            <div>
+            <img src=""static/images/B.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",5,html-button-response,235511,response_L,,wa88aba9
+7196.199999988079,"
+            <div>
+            <img src=""static/images/C.svg"" style=""width:45%;padding:10px;""></img>
+            <img src='static/images/T.svg' style=""width:45%;padding:10px;""></img>
+            </div>
+        ",8,html-button-response,244716,response_L,,wa88aba9
