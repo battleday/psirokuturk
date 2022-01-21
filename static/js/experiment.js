@@ -15,9 +15,11 @@ function drawProgressBar(msg) {
   ///////////
   // Setup //
   ///////////
- 
+  var loc = window.location.pathname;
+  var dir = loc.substring(0, loc.lastIndexOf('/'));
+  console.log(dir);
   // This ensures that images appear exactly when we tell them to.
-  img_path = 'stimuli/img'
+  img_path = 'static/images'
   stimNames = ['A', 'B', 'C', 'D'];
   stimNums = Array.from({length: 6}, (_, i) => i + 1).map(String);
 
@@ -53,7 +55,7 @@ function drawProgressBar(msg) {
       post_trial_gap: 500,
       on_start: function(){
   document.querySelector('#jspsych-progressbar-container').style.display = 'none';
-}
+      } 
     };
 
     timeline.push(welcome_block)
@@ -63,7 +65,7 @@ function drawProgressBar(msg) {
       stimulus: `
         <div class="instructions">
           <p>In this experiment, we are interested in understanding how people make similarity judgements. We will ask you to rate the similarity of different visual stimuli. Each stimulus is a collection of 2-5 shapes of different shading, and will look something like this: <br>
-          <img src='static/images/T.svg' style="width:30%;padding:10px;"></img> 
+          <img src='static/images/T_1.svg' style="width:30%;padding:10px;"></img> 
           <br>
           In the <em>training</em> phase, we will present the stimuli <b> one at a time </b> so that you can become familiar with them. No response is required, and you will not be tested on them later.<br>
           <br>
@@ -83,7 +85,7 @@ function drawProgressBar(msg) {
       type: "html-keyboard-response",
       stimulus: `
         <div class="instructions">
-        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. There will be five stimuli, repeated twice. 
+        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. There will be 25 stimuli. 
         <br> 
         <br>
         No response is required, simply observe the stimuli. <br>
@@ -120,7 +122,7 @@ function drawProgressBar(msg) {
         jsPsych.setProgressBar(0)
         drawProgressBar('Testing Progress')
   document.querySelector('#jspsych-progressbar-container').style.display = 'block'}
-    };
+      };
 
 
   /////////////////
@@ -183,7 +185,7 @@ function drawProgressBar(msg) {
       timeline_variables: trainStimuli,
       sample: {
         type: 'without-replacement',
-        size: 25}
+        size: 25},
       randomize_order: true
     }
 
@@ -197,7 +199,7 @@ timeline.push(train_block)
 
 timeline.push(test_instructions_block)
 
-}
+
 
 function test(stim) {
   var test = {
@@ -213,8 +215,8 @@ function test(stim) {
       },
     stimulus:`
             <div>
-            <img src="${stim}" style="width:45%;padding:10px;"></img>
-            <img src='static/images/T.svg' style="width:45%;padding:10px;"></img>
+            <img src="${stim[0]}" style="width:45%;padding:10px;"></img>
+            <img src="${stim[1]}" style="width:45%;padding:10px;"></img>
             </div>
         ` 
     }
@@ -228,7 +230,7 @@ randomIndices = _.shuffle(Array.from({length: N*2}, (x, i) => i))
 // stage 2 is to add permutation
 for (let i = 0; i < N*2; i++) {
   index = randomIndices[i]
-  timeline.push(test_L(testStimuli[index]))
+  timeline.push(test(testStimuli[index]))
   if (i === (N*2)-1) { break; }
   timeline.push(fixation)
   
