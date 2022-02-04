@@ -77,8 +77,16 @@ jsPsych.plugins["html-button-response"] = (function() {
 
   plugin.trial = function(display_element, trial) {
 
+    //show prompt if there is one
+    if (trial.prompt !== null) {
+      var html = `<div class=button-group>` + trial.prompt;
+    }
+    else {
+      var html = `<div class=button-group>`;
+    }
+
     // display stimulus; #RMBL added button-group here to control position
-    var html = '<div class=button-group><div id="jspsych-html-button-response-stimulus">'+trial.stimulus+'</div>';
+    html += '<div id="jspsych-html-button-response-stimulus">'+trial.stimulus+'</div>';
 
     //display buttons
     var buttons = [];
@@ -98,15 +106,8 @@ jsPsych.plugins["html-button-response"] = (function() {
       var str = buttons[i].replace(/%choice%/g, trial.choices[i]);
       html += '<div class="jspsych-html-button-response-button" style="display: inline-block; margin:'+trial.margin_vertical+' '+trial.margin_horizontal+'" id="jspsych-html-button-response-button-' + i +'" data-choice="'+i+'">'+str+'</div>';
     }
-    html += '</div>';
+    html += '</div></div>';
 
-    //show prompt if there is one
-    if (trial.prompt !== null) {
-      html += trial.prompt;
-      html += '</div>'
-    } else {
-        html += '</div>'
-    }
     display_element.innerHTML = html;
 
     // start time

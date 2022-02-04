@@ -49,10 +49,15 @@ function drawProgressBar(msg) {
       type: "html-keyboard-response",
       stimulus: `
       <div class="instructions">
-        <p class="center">Welcome to the experiment. Press any key to begin.</p>
+        <p class="center"> Welcome to the experiment. <br><br>
+
+        Press any key to begin. <br><br>
+
+
+        There may be a short delay as the experiment loads. 
+        </p>
       </div>
       `,
-      post_trial_gap: 500,
       on_start: function(){
   document.querySelector('#jspsych-progressbar-container').style.display = 'none';
       } 
@@ -64,13 +69,13 @@ function drawProgressBar(msg) {
       type: "html-keyboard-response",
       stimulus: `
         <div class="instructions">
-          <p>In this experiment, we are interested in understanding how people make similarity judgements. We will ask you to rate the similarity of different visual stimuli. Each stimulus is a collection of 2-5 shapes of different shading, and will look something like this: <br>
+          <p>In this experiment, we are interested in understanding how people make similarity judgements. We will ask you to rate the similarity of different pictures. Each picture is a collection of 2-5 shapes of different shading, and will look something like this: <br>
           <img src='static/images/T_1.svg' style="width:30%;padding:10px;"></img> 
           <br>
-          In the <em>training</em> phase, we will present the stimuli <b> one at a time </b> so that you can become familiar with them. No response is required, and you will not be tested on them later.<br>
+          In the <em>familiarization</em> phase, we will present the pictures <b> one at a time </b> so that you can become familiar with them. Simply observe the picture, and when the instruction appears press any key to move on to the next one.<br>
           <br>
           <br>
-          In the <em>testing</em> phase, we will present the stimuli <b> two at a time</b>, and ask you to rate the similarity of two stimuli by clicking a button on the screen. <br>
+          In the <em>rating</em> phase, we will present the pictures <b> two at a time</b>, and ask you to rate the similarity of two pictures by clicking a button on the screen. <br>
           <br>
           <br>
           Press any key to continue.</p>
@@ -85,17 +90,17 @@ function drawProgressBar(msg) {
       type: "html-keyboard-response",
       stimulus: `
         <div class="instructions">
-        <p>In this <em>training</em> phase, we will show you the stimuli that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. There will be 25 stimuli. 
-        <br> 
+        <p>In this <em>familiarization</em> phase, we will show you the pictures that we will be using in this experiment <b> one at a time </b> so that you can become familiar with them. There will be 25 pictures. 
         <br>
-        No response is required, simply observe the stimuli. <br>
+        <br>
+        Simply observe the picture, and when the instruction appears press any key to move on to the next one. <br>
         <br>
         Press any key to continue.</p>
         </div>
       `,
       post_trial_gap: 500,
       on_finish: function(){
-        drawProgressBar('Training Progress')
+        drawProgressBar('Progress: familiarization phase')
   document.querySelector('#jspsych-progressbar-container').style.display = 'block';
       }
     };
@@ -105,13 +110,14 @@ function drawProgressBar(msg) {
       type: "html-keyboard-response",
       stimulus: `
         <div class="instructions">
-        <p>In this <em>testing</em> phase, two stimuli will appear in the center 
+        <p>In this <em>rating</em> phase, two pictures will appear in the center 
         of the screen at the same time.<br>
         <br>
-        We will ask you to press a button from 1 (not very similar) to 9 (highly similar) to indicate how similar the 
-        stimuli are. <br>
+        We will ask you to rate the similarity of the two pictures. When the instruction appears, press a button to record your rating. <br> <br>
+        Press the "1" key if the pictures are not very similar
+        <br> 
+        Press the "9" key if the pictures are highly similar. <br> Press the other number keys if the similarity is in between these. <br>
         <br>
-        A cross will appear in between trials, and will look like this: <br><br><br> <font size=100px>+</font> <br><br><br>
         Press any key to continue.</p>
         </div>
       `,
@@ -120,7 +126,7 @@ function drawProgressBar(msg) {
   document.querySelector('#jspsych-progressbar-container').style.display = 'none'},
       on_finish: function(){
         jsPsych.setProgressBar(0)
-        drawProgressBar('Testing Progress')
+        drawProgressBar('Progress: rating phase')
   document.querySelector('#jspsych-progressbar-container').style.display = 'block'}
       };
 
@@ -138,41 +144,41 @@ function drawProgressBar(msg) {
   var testStimuli = balancedTargets.concat(formattedStims).map(function(e, i) {
     return [e, formattedStims.concat(balancedTargets)[i]]});
   var test_step = 1 / (testStimuli.length)
-  /////////////////
-  // Inter-trial //
-  /////////////////
-
-
-    var fixation = {
-      type: 'html-keyboard-response',
-      stimulus: '<div class="training" style="font-size:100px;">+</div>',
-      choices: jsPsych.NO_KEYS,
-      trial_duration: function(){
-        return jsPsych.randomization.sampleWithoutReplacement([250, 500, 750, 1000, 1250, 1500, 1750, 2000], 1)[0];
-      },
-      data: {
-        task: 'fixation'
-      }
-    }
-
 
   /////////////////
   // Train trials //
   /////////////////
-   var train = {
+   var train_watch = {
       type: "html-keyboard-response",
       stimulus: function(){
                 var html = `
-                <div class="training";'><img src="${jsPsych.timelineVariable('stimulus')}" width="45%"></img></div>
-                <p></p>`;
+                <div class="training">
+                <img src="${jsPsych.timelineVariable('stimulus')}" width="45%"></img>
+                <p> &nbsp </p>
+                </div>`;
                 return html;
             },
       
       choices: jsPsych.NO_KEYS,
-      stimulus_duration: 3000,
-      trial_duration: 4000,
+      trial_duration: 0, // should be 3000
       data: {
-        task: 'training'
+        task: 'training_watch'
+      }
+    }
+
+    var train_respond = {
+      type: "html-keyboard-response",
+      stimulus: function(){
+                var html = `
+                <div class="training"> 
+                <img src="${jsPsych.timelineVariable('stimulus')}" width="45%"></img>
+                <p> Press any key to continue. </p>
+                </div>
+                `;
+                return html;
+            },
+      data: {
+        task: 'training_response'
       },
       on_finish: function(){
         var new_prog = jsPsych.getProgressBarCompleted() + train_step
@@ -181,7 +187,7 @@ function drawProgressBar(msg) {
     }
 
     var train_block = {
-      timeline: [train],
+      timeline: [train_watch, train_respond],
       timeline_variables: trainStimuli,
       sample: {
         type: 'without-replacement',
@@ -201,13 +207,40 @@ timeline.push(test_instructions_block)
 
 
 
-function test(stim) {
+function test_watch(stim) {
   var test = {
     type: "html-button-response",
-    prompt: `<p>How similar are these stimuli? <br> Click a button from 1 (not very similar) to 9 (highly similar). </p>`,
+    prompt: `<p> How similar are these pictures? <br> </p>`,
+    data: {
+        task: 'test_watch'
+    },
+    choices: [],
+    trial_duration: 1000,
+    stimulus: 
+      `
+            <div>
+            <img src="${stim[0]}" style="width:45%;padding:10px;"></img>
+            <img src="${stim[1]}" style="width:45%;padding:10px;"></img>
+            <p> &nbsp </p>
+            </div>
+            <div id="jspsych-html-button-response-btngroup">
+            <div class="jspsych-html-button-response-button" 
+              style="display: inline-block; margin:'+0px+' '+8px+'" 
+              id="jspsych-html-button-response-button-' + 0 +'" data-choice="'+0+'"> 
+              <button class="jspsych-btn-ghost">0</button>
+              </div>
+            </div>
+        ` 
+    }
+  return test
+}
+function test_respond(stim) {
+  var test = {
+    type: "html-button-response",
+    prompt: `<p> How similar are these pictures? </p>`,
     choices: ['1', '2', '3', '4', '5', '6', '7', '8', '9'],
     data: {
-        task: 'response'
+        task: 'test_respond'
     },
     on_finish: function(){
         var new_prog = jsPsych.getProgressBarCompleted() + test_step
@@ -217,6 +250,7 @@ function test(stim) {
             <div>
             <img src="${stim[0]}" style="width:45%;padding:10px;"></img>
             <img src="${stim[1]}" style="width:45%;padding:10px;"></img>
+            <p> Click a button from 1 (not very similar) to 9 (highly similar). </p>
             </div>
         ` 
     }
@@ -230,10 +264,8 @@ randomIndices = _.shuffle(Array.from({length: N*2}, (x, i) => i))
 // stage 2 is to add permutation
 for (let i = 0; i < N*2; i++) {
   index = randomIndices[i]
-  timeline.push(test(testStimuli[index]))
-  if (i === (N*2)-1) { break; }
-  timeline.push(fixation)
-  
+  timeline.push(test_watch(testStimuli[index]))
+  timeline.push(test_respond(testStimuli[index]))
 }
 
 
@@ -254,6 +286,8 @@ for (let i = 0; i < N*2; i++) {
   // }
 // <div class="training"> Your average response time was ${getAverageResponseTime()}.<br>
 
+// IMPORTANT: REMOVE BELOW AFTER PILOTING
+
   var debrief = {
     type: "html-keyboard-response",
     on_start: function(){
@@ -261,7 +295,8 @@ for (let i = 0; i < N*2; i++) {
     stimulus() {
       return `
       <div class="training"> You  have finished! Thank you. We have automatically recorded your Participant ID. 
-      <br> Press any key to advance to an annonymous survey, which we are using for piloting. </div>
+      <br> <br>
+      Press any key to advance to an annonymous survey, which we are using for piloting. </div>
       `
     }
   };
@@ -301,7 +336,9 @@ for (let i = 0; i < N*2; i++) {
     stimulus() {
       return `
       <div class="training"> Thank you for finishing the survey! Your answers will help us develop these experiments. 
-      <br> Press any key to finish. </div>
+      <br> 
+      <br>
+      Press any key to finish. </div>
       `
     }
   };
