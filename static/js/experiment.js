@@ -113,12 +113,13 @@ function drawProgressBar(msg) {
         <p>In this <em>rating</em> phase, two pictures will appear in the center 
         of the screen at the same time.<br>
         <br>
-        We will ask you to rate the similarity of the two pictures. When the instruction appears, press a button to record your rating. <br> <br>
-        Press the "1" key if the pictures are not very similar
+        We will ask you to rate the similarity of the two pictures. When the instruction appears, click a button to record your rating. <br> <br>
+        Click the "1" key if the pictures are not very similar
         <br> 
-        Press the "9" key if the pictures are highly similar. <br> Press the other number keys if the similarity is in between these. <br>
+        Click the "9" key if the pictures are highly similar. <br> 
+        Click the other number keys if the similarity is in between these. <br>
         <br>
-        Press any key to continue.</p>
+        Click any key to continue.</p>
         </div>
       `,
       post_trial_gap: 500,
@@ -160,7 +161,7 @@ function drawProgressBar(msg) {
             },
       
       choices: jsPsych.NO_KEYS,
-      trial_duration: 0, // should be 3000
+      trial_duration: 3000, // should be 3000
       data: {
         task: 'training_watch'
       }
@@ -296,7 +297,7 @@ for (let i = 0; i < N*2; i++) {
       return `
       <div class="training"> You  have finished! Thank you. We have automatically recorded your Participant ID. 
       <br> <br>
-      Press any key to advance to an annonymous survey, which we are using for piloting. </div>
+      Press any key to advance to an annonymous survey, which we are using to collect demographic data. </div>
       `
     }
   };
