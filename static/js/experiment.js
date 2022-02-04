@@ -119,7 +119,7 @@ function drawProgressBar(msg) {
         Click the "9" key if the pictures are highly similar. <br> 
         Click the other number keys if the similarity is in between these. <br>
         <br>
-        Click any key to continue.</p>
+        Press any key to continue.</p>
         </div>
       `,
       post_trial_gap: 500,
