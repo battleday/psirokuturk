@@ -1,0 +1,174 @@
+rt,stimulus,response,trial_type,time_elapsed,task,question_order,wid
+18083.19999998808,,"{'Age': ['21-30'], 'Gender': ['Woman '], 'Math': ['3-4']}",survey-multi-select,388374,,"[0, 1, 2]",w0e1d2bf
+15527.200000047684,,"{'Age': ['21-30'], 'Gender': ['Woman '], 'Math': ['10+']}",survey-multi-select,311887,,"[0, 1, 2]",w1d1ffa4
+21819.200000047684,,"{'Age': ['21-30'], 'Gender': ['Woman '], 'Math': ['7-8']}",survey-multi-select,356480,,"[0, 1, 2]",wb3a1943
+21292.599999904633,,"{'Age': ['31-40'], 'Gender': ['Woman '], 'Math': ['3-4', '8-9']}",survey-multi-select,331184,,"[0, 1, 2]",w829fa17
+20819.600000023842,,"{'Age': ['31-40'], 'Gender': ['Woman '], 'Math': ['7-8']}",survey-multi-select,962347,,"[0, 1, 2]",w039ba33
+12921.300000190735,,"{'Age': ['51-60'], 'Gender': ['Woman '], 'Math': ['10+']}",survey-multi-select,335964,,"[0, 1, 2]",wa33ff3f
+55197.59999999404,,"{'Age': ['21-30'], 'Gender': ['Man'], 'Math': ['5-6']}",survey-multi-select,487520,,"[0, 1, 2]",wdb435de
+12687.099999904633,,"{'Age': ['41-50'], 'Gender': ['Man'], 'Math': ['5-6']}",survey-multi-select,320509,,"[0, 1, 2]",w7b25ead
+16927.700000000186,,"{'Age': ['31-40'], 'Gender': ['Woman '], 'Math': ['10+']}",survey-multi-select,378687,,"[0, 1, 2]",wcd3837f
+19719.699999928474,,"{'Age': ['21-30'], 'Gender': ['Man'], 'Math': ['5-6']}",survey-multi-select,407431,,"[0, 1, 2]",w4a45c23
+26229.700000047684,,"{'Age': ['41-50'], 'Gender': ['Man'], 'Math': ['3-4']}",survey-multi-select,433007,,"[0, 1, 2]",wc3d1bb4
+38969.00000000006,,"{'Age': ['21-30'], 'Gender': ['Woman '], 'Math': ['10+']}",survey-multi-select,437688,,"[0, 1, 2]",w3d34f23
+4814.9000000059605,,"{'Age': ['Prefer not to say'], 'Gender': ['Prefer not to say'], 'Math': ['Prefer not to say']}",survey-multi-select,319157,,"[0, 1, 2]",w895ea4d
+13298.5,,"{'Age': ['21-30'], 'Gender': ['Woman '], 'Math': ['8-9']}",survey-multi-select,303175,,"[0, 1, 2]",w150cee3
+18985.00000000006,,"{'Age': ['31-40'], 'Gender': ['Woman '], 'Math': ['3-4']}",survey-multi-select,413295,,"[0, 1, 2]",w3d40ead
+5682.299999982119,,"{'Age': ['Prefer not to say'], 'Gender': ['Prefer not to say'], 'Math': ['Prefer not to say']}",survey-multi-select,279415,,"[0, 1, 2]",wa855bbc
+8450.900000000373,,"{'Age': ['21-30'], 'Gender': ['Woman '], 'Math': ['5-6']}",survey-multi-select,1028950,,"[0, 1, 2]",wa6896b8
+21436.19999998808,,"{'Age': ['21-30'], 'Gender': ['Woman '], 'Math': ['3-4']}",survey-multi-select,617032,,"[0, 1, 2]",wd1e2f0a
+30086.0,,"{'Age': ['51-60'], 'Gender': ['Man'], 'Math': ['7-8']}",survey-multi-select,436241,,"[0, 1, 2]",w1608811
+10861.100000143051,,"{'Age': ['51-60'], 'Gender': ['Woman '], 'Math': ['10+']}",survey-multi-select,412863,,"[0, 1, 2]",wb1f2aea
+19627.399999976158,,"{'Age': ['21-30'], 'Gender': ['Man'], 'Math': ['7-8']}",survey-multi-select,698005,,"[0, 1, 2]",w4850c46
+15622.79999999702,,"{'Age': ['21-30'], 'Gender': ['Woman '], 'Math': ['5-6']}",survey-multi-select,266681,,"[0, 1, 2]",w1b0845d
+14448.299999713898,,"{'Age': ['31-40'], 'Gender': ['Man'], 'Math': ['5-6']}",survey-multi-select,540755,,"[0, 1, 2]",w7fffd10
+33128.10000000149,,"{'Age': ['21-30'], 'Gender': ['Man'], 'Math': ['3-4']}",survey-multi-select,938961,,"[0, 1, 2]",w5b00f92
+41171.90000000596,,"{'Age': ['60+'], 'Gender': ['Woman '], 'Math': ['5-6']}",survey-multi-select,442364,,"[0, 1, 2]",w0a219fe
+59886.0,,"{'Age': ['10-20'], 'Gender': ['Man'], 'Math': ['7-8']}",survey-multi-select,467720,,"[0, 1, 2]",wcf21689
+33580.0,,"{'Age': ['21-30'], 'Gender': ['Woman '], 'Math': ['5-6']}",survey-multi-select,395435,,"[0, 1, 2]",w31f570e
+41232.0,,"{'Age': ['31-40'], 'Gender': ['Man'], 'Math': ['5-6']}",survey-multi-select,599621,,"[0, 1, 2]",w9ed45bc
+17994.0,,"{'Age': ['21-30'], 'Gender': ['Woman '], 'Math': ['10+']}",survey-multi-select,321478,,"[0, 1, 2]",w37febc7
+15275.40000000596,,"{'Age': ['21-30'], 'Gender': ['Woman '], 'Math': ['10+']}",survey-multi-select,256375,,"[0, 1, 2]",w2aeb06d
+13088.0,,"{'Age': ['41-50'], 'Gender': ['Man'], 'Math': ['8-9']}",survey-multi-select,418007,,"[0, 1, 2]",w2f07db2
+18913.900000095367,,"{'Age': ['21-30'], 'Gender': ['Woman '], 'Math': ['5-6']}",survey-multi-select,602938,,"[0, 1, 2]",wdd85250
+6856.700000047684,,"{'Age': ['21-30'], 'Gender': ['Woman '], 'Math': ['10+']}",survey-multi-select,358733,,"[0, 1, 2]",wb8f1d3f
+42354.5,,"{'Age': ['60+'], 'Gender': ['Man'], 'Math': ['5-6']}",survey-multi-select,810654,,"[0, 1, 2]",wbd0905a
+13108.599999904633,,"{'Age': ['41-50'], 'Gender': ['Woman '], 'Math': ['10+']}",survey-multi-select,451436,,"[0, 1, 2]",w96a95fa
+28258.700000047684,,"{'Age': ['51-60'], 'Gender': ['Woman '], 'Math': ['10+']}",survey-multi-select,953864,,"[0, 1, 2]",w41d160d
+11749.5,,"{'Age': ['21-30'], 'Gender': ['Man'], 'Math': ['10+']}",survey-multi-select,375345,,"[0, 1, 2]",w1e27c75
+11923.09999999404,,"{'Age': ['21-30'], 'Gender': ['Man'], 'Math': ['3-4']}",survey-multi-select,589243,,"[0, 1, 2]",wf3fcc62
+10580.600000143051,,"{'Age': ['51-60'], 'Gender': ['Woman '], 'Math': ['5-6']}",survey-multi-select,613250,,"[0, 1, 2]",w82913c1
+14642.79999999702,,"{'Age': ['10-20', '21-30'], 'Gender': ['Man'], 'Math': ['5-6']}",survey-multi-select,280644,,"[0, 1, 2]",w223bf59
+18021.60000000894,,"{'Age': ['31-40'], 'Gender': ['Man'], 'Math': ['10+']}",survey-multi-select,305780,,"[0, 1, 2]",wee63545
+16320.899999856949,,"{'Age': ['41-50'], 'Gender': ['Man'], 'Math': ['10+']}",survey-multi-select,560406,,"[0, 1, 2]",w6bbb7f5
+13759.299999982119,,"{'Age': ['21-30'], 'Gender': ['Man'], 'Math': ['Prefer not to say']}",survey-multi-select,544938,,"[0, 1, 2]",w4db25a1
+18849.0,,"{'Age': ['41-50'], 'Gender': ['Woman '], 'Math': ['0-2']}",survey-multi-select,587842,,"[0, 1, 2]",w0266733
+75227.7000002861,,"{'Age': ['41-50'], 'Gender': ['Woman '], 'Math': ['0-2']}",survey-multi-select,369517,,"[0, 1, 2]",w6aebfce
+13063.400000095367,,"{'Age': ['31-40'], 'Gender': ['Man'], 'Math': ['8-9']}",survey-multi-select,580008,,"[0, 1, 2]",w138952d
+17209.5,,"{'Age': ['41-50'], 'Gender': ['Man'], 'Math': ['3-4']}",survey-multi-select,404912,,"[0, 1, 2]",wa8c3a62
+21047.200000001118,,"{'Age': ['60+'], 'Gender': ['Woman '], 'Math': ['10+']}",survey-multi-select,493234,,"[0, 1, 2]",wc90e38d
+22812.0,,"{'Age': ['60+'], 'Gender': ['Woman '], 'Math': ['3-4']}",survey-multi-select,439163,,"[0, 1, 2]",w3889a2c
+14268.0,,"{'Age': ['31-40'], 'Gender': ['Man'], 'Math': ['10+']}",survey-multi-select,360016,,"[0, 1, 2]",we96b589
+20944.400000095367,,"{'Age': ['51-60'], 'Gender': ['Man'], 'Math': ['10+']}",survey-multi-select,459574,,"[0, 1, 2]",w2613761
+28715.899999976158,,"{'Age': ['60+'], 'Gender': ['Woman '], 'Math': ['5-6', '7-8', '8-9']}",survey-multi-select,403630,,"[0, 1, 2]",wfa7433e
+13629.799999982119,,"{'Age': ['31-40'], 'Gender': ['Man'], 'Math': ['7-8']}",survey-multi-select,339095,,"[0, 1, 2]",w50f8f7e
+7406.600000023842,,"{'Age': ['21-30'], 'Gender': ['Woman '], 'Math': ['8-9']}",survey-multi-select,533168,,"[0, 1, 2]",wa3b9104
+33593.20000000298,,"{'Age': ['21-30'], 'Gender': ['Woman '], 'Math': ['8-9']}",survey-multi-select,557129,,"[0, 1, 2]",w8a5d13f
+9641.699999809265,,"{'Age': ['31-40'], 'Gender': ['Woman '], 'Math': ['8-9']}",survey-multi-select,852150,,"[0, 1, 2]",w9379bf6
+22611.599999904633,,"{'Age': ['31-40'], 'Gender': ['Woman '], 'Math': ['5-6']}",survey-multi-select,247781,,"[0, 1, 2]",wee38af7
+17108.0,,"{'Age': ['31-40'], 'Gender': ['Woman '], 'Math': ['5-6']}",survey-multi-select,356179,,"[0, 1, 2]",web47895
+19728.29999999702,,"{'Age': ['41-50'], 'Gender': ['Man'], 'Math': ['3-4']}",survey-multi-select,406559,,"[0, 1, 2]",w5626886
+17188.900000095367,,"{'Age': ['21-30'], 'Gender': ['Woman '], 'Math': ['7-8']}",survey-multi-select,341987,,"[0, 1, 2]",w494dc7a
+18868.5,,"{'Age': ['10-20'], 'Gender': ['Transgender'], 'Math': ['3-4']}",survey-multi-select,355451,,"[0, 1, 2]",w2da7e27
+33066.09999990463,,"{'Age': ['41-50'], 'Gender': ['Woman '], 'Math': ['8-9', '10+']}",survey-multi-select,396148,,"[0, 1, 2]",wc5a0350
+15794.400000035763,,"{'Age': ['31-40'], 'Gender': ['Woman '], 'Math': ['5-6']}",survey-multi-select,393105,,"[0, 1, 2]",w23965ea
+18999.099999999627,,"{'Age': ['51-60'], 'Gender': ['Man'], 'Math': ['8-9']}",survey-multi-select,382147,,"[0, 1, 2]",wfedb05f
+28919.700000047684,,"{'Age': ['31-40'], 'Gender': ['Woman '], 'Math': ['Prefer not to say']}",survey-multi-select,430463,,"[0, 1, 2]",w4230c5b
+12959.400000000373,,"{'Age': ['21-30'], 'Gender': ['Woman '], 'Math': ['10+']}",survey-multi-select,1028525,,"[0, 1, 2]",wb0ad519
+15679.0,,"{'Age': ['51-60'], 'Gender': ['Woman '], 'Math': ['3-4']}",survey-multi-select,349068,,"[0, 1, 2]",wda53a42
+18163.400000035763,,"{'Age': ['31-40'], 'Gender': ['Woman '], 'Math': ['5-6']}",survey-multi-select,1295821,,"[0, 1, 2]",w19dc07a
+33901.09999999404,,"{'Age': ['21-30'], 'Gender': ['Man'], 'Math': ['3-4']}",survey-multi-select,962779,,"[0, 1, 2]",wb18c6e2
+27402.800000000745,,"{'Age': ['31-40'], 'Gender': ['Woman '], 'Math': ['10+']}",survey-multi-select,340351,,"[0, 1, 2]",wfd7e4af
+10030.400000000373,,"{'Age': ['31-40'], 'Gender': ['Woman '], 'Math': ['Prefer not to say']}",survey-multi-select,309805,,"[0, 1, 2]",w16b64d9
+15554.799999952316,,"{'Age': ['21-30'], 'Gender': ['Man'], 'Math': ['3-4']}",survey-multi-select,430262,,"[0, 1, 2]",wfa81ffb
+31551.40000000596,,"{'Age': ['60+'], 'Gender': ['Man'], 'Math': ['7-8']}",survey-multi-select,477087,,"[0, 1, 2]",wabad900
+14494.199999988079,,"{'Age': ['60+'], 'Gender': ['Man'], 'Math': ['8-9']}",survey-multi-select,553590,,"[0, 1, 2]",w94fa230
+39670.799999999814,,"{'Age': ['41-50'], 'Gender': ['Man'], 'Math': ['5-6', '10+']}",survey-multi-select,586487,,"[0, 1, 2]",w872343c
+16502.0,,"{'Age': ['21-30'], 'Gender': ['Man'], 'Math': ['7-8']}",survey-multi-select,614964,,"[0, 1, 2]",wb05fb09
+20099.700000047684,,"{'Age': ['21-30'], 'Gender': ['Man'], 'Math': ['5-6']}",survey-multi-select,512727,,"[0, 1, 2]",waaf59b3
+28634.199999999255,,"{'Age': ['21-30'], 'Gender': ['Man'], 'Math': ['3-4']}",survey-multi-select,710869,,"[0, 1, 2]",w5161ee5
+12786.0,,"{'Age': ['10-20'], 'Gender': ['Woman '], 'Math': ['5-6']}",survey-multi-select,252334,,"[0, 1, 2]",wc86ced4
+25158.700000047684,,"{'Age': ['60+'], 'Gender': ['Woman '], 'Math': ['5-6']}",survey-multi-select,339077,,"[0, 1, 2]",waf4b863
+22245.0,,"{'Age': ['31-40'], 'Gender': ['Man'], 'Math': ['5-6']}",survey-multi-select,323662,,"[0, 1, 2]",wf686b57
+35568.19999998808,,"{'Age': ['51-60'], 'Gender': ['Woman '], 'Math': ['8-9']}",survey-multi-select,565624,,"[0, 1, 2]",wb657fc1
+14312.299999952316,,"{'Age': ['21-30'], 'Gender': ['Woman '], 'Math': ['10+']}",survey-multi-select,282428,,"[0, 1, 2]",w6f4ea7c
+13597.5,,"{'Age': ['21-30'], 'Gender': ['Woman '], 'Math': ['3-4']}",survey-multi-select,245656,,"[0, 1, 2]",w18495d4
+26580.0,,"{'Age': ['60+'], 'Gender': ['Woman '], 'Math': ['7-8']}",survey-multi-select,474167,,"[0, 1, 2]",wa1db05c
+11956.900000095367,,"{'Age': ['10-20'], 'Gender': ['Woman '], 'Math': ['5-6']}",survey-multi-select,254444,,"[0, 1, 2]",wc2994d6
+75247.90000003576,,"{'Age': ['21-30'], 'Gender': ['Man'], 'Math': ['3-4']}",survey-multi-select,677227,,"[0, 1, 2]",w9108b27
+11788.60000000149,,"{'Age': ['31-40'], 'Gender': ['Man'], 'Math': ['5-6']}",survey-multi-select,284829,,"[0, 1, 2]",wb41404e
+14873.0,,"{'Age': ['41-50'], 'Gender': ['Man'], 'Math': ['10+']}",survey-multi-select,875753,,"[0, 1, 2]",w06fe388
+21175.0,,"{'Age': ['21-30'], 'Gender': ['Man'], 'Math': ['10+']}",survey-multi-select,622311,,"[0, 1, 2]",w226703c
+19260.5,,"{'Age': ['41-50'], 'Gender': ['Man'], 'Math': ['10+']}",survey-multi-select,396972,,"[0, 1, 2]",wf9a3acd
+10041.099999904633,,"{'Age': ['60+'], 'Gender': ['Man'], 'Math': ['10+']}",survey-multi-select,472056,,"[0, 1, 2]",wa379fd4
+9393.70000000298,,"{'Age': ['31-40'], 'Gender': ['Man'], 'Math': ['10+']}",survey-multi-select,231423,,"[0, 1, 2]",wda704d0
+16200.0,,"{'Age': ['31-40'], 'Gender': ['Man'], 'Math': ['3-4']}",survey-multi-select,262163,,"[0, 1, 2]",wd86ece6
+10889.700000047684,,"{'Age': ['31-40'], 'Gender': ['Man'], 'Math': ['10+']}",survey-multi-select,416462,,"[0, 1, 2]",w309f590
+11868.199999928474,,"{'Age': ['31-40'], 'Gender': ['Man', 'Transgender'], 'Math': ['3-4']}",survey-multi-select,573929,,"[0, 1, 2]",w3b2e990
+19211.100000023842,,"{'Age': ['60+'], 'Gender': ['Woman '], 'Math': ['10+']}",survey-multi-select,392361,,"[0, 1, 2]",w2a553fc
+16896.0,,"{'Age': ['31-40'], 'Gender': ['Man'], 'Math': ['10+']}",survey-multi-select,1002701,,"[0, 1, 2]",wfcc8820
+31993.0,,"{'Age': ['31-40'], 'Gender': ['Man'], 'Math': ['5-6']}",survey-multi-select,363665,,"[0, 1, 2]",wce85fc9
+45770.60000014305,,"{'Age': ['31-40'], 'Gender': ['Man'], 'Math': ['7-8']}",survey-multi-select,459747,,"[0, 1, 2]",wdc777eb
+10942.5,,"{'Age': ['21-30'], 'Gender': ['Woman '], 'Math': ['7-8']}",survey-multi-select,360578,,"[0, 1, 2]",w8ffe9c4
+34561.0,,"{'Age': ['41-50'], 'Gender': ['Man'], 'Math': ['5-6']}",survey-multi-select,1368126,,"[0, 1, 2]",wfccec3a
+13612.900000095367,,"{'Age': ['31-40'], 'Gender': ['Woman '], 'Math': ['10+']}",survey-multi-select,399737,,"[0, 1, 2]",wb4410d8
+11926.700000286102,,"{'Age': ['31-40'], 'Gender': ['Man', 'Transgender'], 'Math': ['3-4']}",survey-multi-select,279836,,"[0, 1, 2]",w589a768
+22158.90000000596,,"{'Age': ['31-40'], 'Gender': ['Man'], 'Math': ['5-6']}",survey-multi-select,735955,,"[0, 1, 2]",wf0b7559
+35340.60000002384,,"{'Age': ['60+'], 'Gender': ['Man'], 'Math': ['7-8']}",survey-multi-select,491516,,"[0, 1, 2]",wca5740f
+12416.900000095367,,"{'Age': ['21-30'], 'Gender': ['Man'], 'Math': ['5-6']}",survey-multi-select,527339,,"[0, 1, 2]",w4fd5dc7
+7388.799999952316,,"{'Age': ['21-30'], 'Gender': ['Prefer not to say'], 'Math': ['Prefer not to say']}",survey-multi-select,264275,,"[0, 1, 2]",wecad06e
+9147.5,,"{'Age': ['21-30'], 'Gender': ['Woman '], 'Math': ['10+']}",survey-multi-select,309854,,"[0, 1, 2]",w70dc99f
+19320.200000047684,,"{'Age': ['51-60'], 'Gender': ['Woman '], 'Math': ['5-6']}",survey-multi-select,421479,,"[0, 1, 2]",w2fd84a9
+12171.899999976158,,"{'Age': ['21-30'], 'Gender': ['Man'], 'Math': ['10+']}",survey-multi-select,228985,,"[0, 1, 2]",wacd1cb6
+41656.79999999702,,"{'Age': ['31-40'], 'Gender': ['Woman '], 'Math': ['10+']}",survey-multi-select,358801,,"[0, 1, 2]",w53f5df5
+21979.39999999851,,"{'Age': ['60+'], 'Gender': ['Woman '], 'Math': ['5-6']}",survey-multi-select,337293,,"[0, 1, 2]",w40f2342
+11209.399999976158,,"{'Age': ['31-40'], 'Gender': ['Man'], 'Math': ['10+']}",survey-multi-select,313115,,"[0, 1, 2]",w396d77e
+13959.300000011921,,"{'Age': ['60+'], 'Gender': ['Woman '], 'Math': ['5-6']}",survey-multi-select,316531,,"[0, 1, 2]",w4095f84
+17150.199999999953,,"{'Age': ['31-40'], 'Gender': ['Woman '], 'Math': ['10+']}",survey-multi-select,365397,,"[0, 1, 2]",wdd5e0d6
+12327.199999999255,,"{'Age': ['41-50'], 'Gender': ['Woman '], 'Math': ['10+']}",survey-multi-select,241629,,"[0, 1, 2]",w3ae85eb
+16020.299999982119,,"{'Age': ['51-60'], 'Gender': ['Man'], 'Math': ['7-8']}",survey-multi-select,1413500,,"[0, 1, 2]",w0620066
+6632.800000190735,,"{'Age': ['21-30'], 'Gender': ['Woman '], 'Math': ['5-6']}",survey-multi-select,345868,,"[0, 1, 2]",w63c1445
+16603.0,,"{'Age': ['51-60'], 'Gender': ['Woman '], 'Math': ['5-6']}",survey-multi-select,726416,,"[0, 1, 2]",w8ac6479
+14658.900000095367,,"{'Age': ['41-50'], 'Gender': ['Man'], 'Math': ['3-4']}",survey-multi-select,337177,,"[0, 1, 2]",wf9909e2
+9051.800000011921,,"{'Age': ['31-40'], 'Gender': ['Man'], 'Math': ['7-8']}",survey-multi-select,257631,,"[0, 1, 2]",w8c8e3c4
+14341.0,,"{'Age': ['41-50'], 'Gender': ['Man'], 'Math': ['7-8', '10+']}",survey-multi-select,296064,,"[0, 1, 2]",wa187c44
+11302.5,,"{'Age': ['31-40'], 'Gender': ['Woman '], 'Math': ['10+']}",survey-multi-select,329130,,"[0, 1, 2]",w689d5ff
+14472.399999976158,,"{'Age': ['31-40'], 'Gender': ['Man'], 'Math': ['5-6']}",survey-multi-select,353407,,"[0, 1, 2]",wc3f77f6
+21595.10000000149,,"{'Age': ['31-40'], 'Gender': ['Woman '], 'Math': ['8-9']}",survey-multi-select,357980,,"[0, 1, 2]",w5c29f39
+40888.0,,"{'Age': ['21-30'], 'Gender': ['Man'], 'Math': ['3-4']}",survey-multi-select,542739,,"[0, 1, 2]",w6d0d217
+30291.60000000149,,"{'Age': ['60+'], 'Gender': ['Woman '], 'Math': ['7-8']}",survey-multi-select,368175,,"[0, 1, 2]",w8fb6fa1
+11947.699999809265,,"{'Age': ['21-30'], 'Gender': ['Man', 'Transgender'], 'Math': ['3-4']}",survey-multi-select,295701,,"[0, 1, 2]",wca12fe1
+12260.300000011921,,"{'Age': ['51-60'], 'Gender': ['Woman '], 'Math': ['3-4']}",survey-multi-select,298027,,"[0, 1, 2]",w9c0bb2b
+33860.0,,"{'Age': ['21-30'], 'Gender': ['Woman '], 'Math': ['8-9']}",survey-multi-select,423311,,"[0, 1, 2]",w95ee192
+24216.200000047684,,"{'Age': ['31-40'], 'Gender': ['Woman '], 'Math': ['3-4']}",survey-multi-select,380356,,"[0, 1, 2]",w630018b
+22288.0,,"{'Age': ['31-40'], 'Gender': ['Woman '], 'Math': ['7-8']}",survey-multi-select,522386,,"[0, 1, 2]",w4723c5a
+16995.0,,"{'Age': ['21-30'], 'Gender': ['Transgender'], 'Math': ['3-4']}",survey-multi-select,402371,,"[0, 1, 2]",w555bafb
+10392.200000047684,,"{'Age': ['21-30'], 'Gender': ['Woman '], 'Math': ['7-8']}",survey-multi-select,294931,,"[0, 1, 2]",w56056ee
+54380.5,,"{'Age': ['31-40'], 'Gender': ['Woman '], 'Math': ['3-4']}",survey-multi-select,996921,,"[0, 1, 2]",w30580ff
+23413.600000023842,,"{'Age': ['41-50'], 'Gender': ['Woman '], 'Math': ['10+']}",survey-multi-select,568319,,"[0, 1, 2]",w5a3ebeb
+10151.0,,"{'Age': ['31-40'], 'Gender': ['Woman '], 'Math': ['10+']}",survey-multi-select,1414535,,"[0, 1, 2]",w604482a
+31003.299999952316,,"{'Age': ['41-50'], 'Gender': ['Man'], 'Math': ['10+']}",survey-multi-select,394879,,"[0, 1, 2]",wa4a69c9
+15822.0,,"{'Age': ['31-40'], 'Gender': ['Woman '], 'Math': ['3-4']}",survey-multi-select,390177,,"[0, 1, 2]",wf5cce31
+22519.299999952316,,"{'Age': ['41-50'], 'Gender': ['Woman '], 'Math': ['3-4']}",survey-multi-select,478089,,"[0, 1, 2]",wa9665a9
+28194.5,,"{'Age': ['51-60'], 'Gender': ['Woman '], 'Math': ['5-6']}",survey-multi-select,671977,,"[0, 1, 2]",w3280419
+7357.0999999940395,,"{'Age': ['41-50'], 'Gender': ['Woman '], 'Math': ['10+']}",survey-multi-select,298224,,"[0, 1, 2]",w6611070
+13761.0,,"{'Age': ['31-40'], 'Gender': ['Man'], 'Math': ['7-8']}",survey-multi-select,385561,,"[0, 1, 2]",w58920bb
+10852.200000286102,,"{'Age': ['21-30'], 'Gender': ['Woman '], 'Math': ['5-6']}",survey-multi-select,321365,,"[0, 1, 2]",w2f922a8
+11067.799999952316,,"{'Age': ['31-40'], 'Gender': ['Woman '], 'Math': ['3-4']}",survey-multi-select,255449,,"[0, 1, 2]",w7396a9d
+13493.200000047684,,"{'Age': ['31-40'], 'Gender': ['Woman '], 'Math': ['3-4']}",survey-multi-select,336754,,"[0, 1, 2]",w8e6b20c
+47282.0,,"{'Age': ['31-40'], 'Gender': ['Man'], 'Math': ['5-6']}",survey-multi-select,467943,,"[0, 1, 2]",we857d40
+19149.899999976158,,"{'Age': ['41-50'], 'Gender': ['Man'], 'Math': ['7-8']}",survey-multi-select,424452,,"[0, 1, 2]",w39a57db
+7399.0,,"{'Age': ['41-50'], 'Gender': ['Woman '], 'Math': ['10+']}",survey-multi-select,257429,,"[0, 1, 2]",wf458a17
+32343.400000002235,,"{'Age': ['51-60'], 'Gender': ['Woman '], 'Math': ['10+']}",survey-multi-select,394374,,"[0, 1, 2]",w7d48947
+17796.200000047684,,"{'Age': ['41-50'], 'Gender': ['Man'], 'Math': ['10+']}",survey-multi-select,357884,,"[0, 1, 2]",we85439c
+10576.200000047684,,"{'Age': ['21-30'], 'Gender': ['Woman '], 'Math': ['5-6']}",survey-multi-select,295546,,"[0, 1, 2]",w5ded5fd
+19463.0,,"{'Age': ['51-60'], 'Gender': ['Man'], 'Math': ['5-6']}",survey-multi-select,636122,,"[0, 1, 2]",w89c7369
+9924.100000143051,,"{'Age': ['31-40'], 'Gender': ['Woman '], 'Math': ['7-8']}",survey-multi-select,269640,,"[0, 1, 2]",w528f568
+26950.0,,"{'Age': ['41-50'], 'Gender': ['Woman '], 'Math': ['5-6']}",survey-multi-select,825912,,"[0, 1, 2]",wbfbc4f4
+13398.600000143051,,"{'Age': ['21-30'], 'Gender': ['Woman '], 'Math': ['8-9']}",survey-multi-select,776237,,"[0, 1, 2]",w6099fc3
+23772.0,,"{'Age': ['31-40'], 'Gender': ['Woman ', 'Gender non-conforming'], 'Math': ['5-6']}",survey-multi-select,336709,,"[0, 1, 2]",w07d9610
+16202.0,,"{'Age': ['31-40'], 'Gender': ['Woman '], 'Math': ['10+']}",survey-multi-select,318937,,"[0, 1, 2]",wd2c557c
+19140.199999928474,,"{'Age': ['21-30'], 'Gender': ['Man'], 'Math': ['5-6']}",survey-multi-select,348142,,"[0, 1, 2]",w1452817
+20725.59999999404,,"{'Age': ['21-30'], 'Gender': ['Woman '], 'Math': ['10+']}",survey-multi-select,428576,,"[0, 1, 2]",wa7a28b1
+16532.699999928474,,"{'Age': ['31-40'], 'Gender': ['Woman '], 'Math': ['3-4', '5-6']}",survey-multi-select,371763,,"[0, 1, 2]",w30adba2
+16598.5,,"{'Age': ['31-40'], 'Gender': ['Man'], 'Math': ['3-4']}",survey-multi-select,305589,,"[0, 1, 2]",wa2d7975
+9413.800000190735,,"{'Age': ['21-30'], 'Gender': ['Man'], 'Math': ['10+']}",survey-multi-select,447535,,"[0, 1, 2]",w7c06a19
+11862.0,,"{'Age': ['31-40'], 'Gender': ['Woman '], 'Math': ['10+']}",survey-multi-select,325176,,"[0, 1, 2]",wfc8d649
+13892.0,,"{'Age': ['21-30'], 'Gender': ['Woman '], 'Math': ['5-6']}",survey-multi-select,273718,,"[0, 1, 2]",w001bcc3
+19089.80000001192,,"{'Age': ['41-50'], 'Gender': ['Man'], 'Math': ['3-4']}",survey-multi-select,418295,,"[0, 1, 2]",w09b7b04
+21817.400000095367,,"{'Age': ['21-30'], 'Gender': ['Man'], 'Math': ['8-9']}",survey-multi-select,418721,,"[0, 1, 2]",w9124f64
+21492.400000095367,,"{'Age': ['31-40'], 'Gender': ['Woman '], 'Math': ['5-6', '10+']}",survey-multi-select,333361,,"[0, 1, 2]",w473f339
+21529.599999964237,,"{'Age': ['21-30'], 'Gender': ['Man'], 'Math': ['10+']}",survey-multi-select,313353,,"[0, 1, 2]",w583ea3b
+12047.100000023842,,"{'Age': ['31-40'], 'Gender': ['Man'], 'Math': ['3-4']}",survey-multi-select,334667,,"[0, 1, 2]",w48ad2c7
+12253.20000000298,,"{'Age': ['31-40'], 'Gender': ['Man'], 'Math': ['10+']}",survey-multi-select,300231,,"[0, 1, 2]",w6bd41fa
+12433.5,,"{'Age': ['51-60'], 'Gender': ['Woman '], 'Math': ['10+']}",survey-multi-select,389310,,"[0, 1, 2]",w5105a98
