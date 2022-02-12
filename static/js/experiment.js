@@ -297,7 +297,7 @@ for (let i = 0; i < N*2; i++) {
       return `
       <div class="training"> You  have finished! Thank you. We have automatically recorded your Participant ID. 
       <br> <br>
-      Press any key to advance to an annonymous survey, which we are using to collect demographic data. </div>
+      Press any key to advance to an anonymous survey, which we are using to collect demographic data. </div>
       `
     }
   };
